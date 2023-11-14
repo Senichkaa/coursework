@@ -7,7 +7,7 @@ export const HeroSection = styled.section`
   background-repeat: no-repeat;
   background-size: contain;
   background-position: calc(50% - 400px);
-  margin: 75px 0px;
+  margin: 75px 0px 0px 0px;
   height: 500px;
 `;
 
