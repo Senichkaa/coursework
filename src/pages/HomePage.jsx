@@ -1,12 +1,12 @@
 import React from 'react';
 import Hero from 'components/Hero/Hero';
-import Brands from 'components/Brands/Brands';
+import Advantages from 'Advantages/Advantages';
 
 function HomePage() {
   return (
     <>
       <Hero />
-      <Brands />
+      <Advantages />{' '}
     </>
   );
 }
