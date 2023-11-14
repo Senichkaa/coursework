@@ -1,13 +1,13 @@
 import styled from 'styled-components';
 import variables from 'common/Variables';
-import HeroImage from '../../assets/hero_bgc_gclass.png';
+import HeroImage from '../../assets/g-wagon.png';
 
 export const HeroSection = styled.section`
   background-image: url(${HeroImage});
   background-repeat: no-repeat;
   background-size: contain;
-  background-position: calc(50% - 600px);
-  margin: 100px 0px;
+  background-position: calc(50% - 400px);
+  margin: 75px 0px;
   height: 500px;
 `;
 
