@@ -21,7 +21,7 @@ body {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-style: normal;
-  color: #1a1a1a;
+  background-color: #1a1a1a;
   width: 100%;
   height: 100vh;
   margin: 0;

@@ -27,8 +27,7 @@ export const NavigationLink = styled(NavLink)`
     }
   }
 
-  &:hover,
-  &:focus {
+  &:hover {
     color: ${variables.logoPrimary};
 
     &::after {
