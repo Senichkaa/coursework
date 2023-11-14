@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/coursework/static/css/main.7acaea2f.css",
-    "main.js": "/coursework/static/js/main.fef223b6.js",
+    "main.js": "/coursework/static/js/main.2ccb85ef.js",
+    "static/media/hero_bgc_gclass.png": "/coursework/static/media/hero_bgc_gclass.df8c0ab90cce0549a26c.png",
     "static/media/lmu-trnsprt.png": "/coursework/static/media/lmu-trnsprt.d8266231d8e78c343cf0.png",
     "static/media/roboto-regular.woff2": "/coursework/static/media/roboto-regular.60c6d073cfdf57bc03d2.woff2",
     "index.html": "/coursework/index.html",
     "main.7acaea2f.css.map": "/coursework/static/css/main.7acaea2f.css.map",
-    "main.fef223b6.js.map": "/coursework/static/js/main.fef223b6.js.map"
+    "main.2ccb85ef.js.map": "/coursework/static/js/main.2ccb85ef.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.fef223b6.js"
+    "static/js/main.2ccb85ef.js"
   ]
 }
