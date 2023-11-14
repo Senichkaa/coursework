@@ -3,10 +3,10 @@ import { NavLink } from 'react-router-dom';
 import logo from '../../assets/lmu-trnsprt.png';
 import { Head, Image } from './Header.styled';
 
-import { Navigation } from 'components/Navigation/Navigation';
+import Navigation from 'components/Navigation/Navigation';
 import { Container } from 'common/Container.styled';
 
-export const Header = () => {
+function Header() {
   return (
     <Container>
       <Head>
@@ -17,4 +17,6 @@ export const Header = () => {
       </Head>
     </Container>
   );
-};
+}
+
+export default Header;

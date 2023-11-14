@@ -1,6 +1,7 @@
+import React from 'react';
 import { NavigationNav, NavigationLink } from './Navigation.styled';
 
-export const Navigation = () => {
+function Navigation() {
   return (
     <NavigationNav>
       <NavigationLink to="/">Home</NavigationLink>
@@ -9,4 +10,6 @@ export const Navigation = () => {
       <NavigationLink to="/cart">Cart</NavigationLink>
     </NavigationNav>
   );
-};
+}
+
+export default Navigation;

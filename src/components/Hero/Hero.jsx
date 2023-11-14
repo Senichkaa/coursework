@@ -9,7 +9,7 @@ import {
   HeroSecondText,
   HeroButton,
 } from './Hero.styled';
-export const Hero = () => {
+function Hero() {
   return (
     <HeroSection>
       <Container>
@@ -34,4 +34,6 @@ export const Hero = () => {
       </Container>
     </HeroSection>
   );
-};
+}
+
+export default Hero;

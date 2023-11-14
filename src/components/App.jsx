@@ -1,11 +1,19 @@
-// import { Route, Routes } from 'react-router-dom';
-import { Header } from './Header/Header';
-import { Hero } from 'components/Hero/Hero';
-export const App = () => {
+import { Route, Routes } from 'react-router-dom';
+import { lazy } from 'react';
+import Layout from 'Layout/Layout';
+
+const HomePage = lazy(() => import('../pages/HomePage.jsx'));
+
+function App() {
   return (
     <>
-      <Header></Header>
-      <Hero />
+      <Routes>
+        <Route path="/" element={<Layout />}>
+          <Route index element={<HomePage />} />
+        </Route>
+      </Routes>
     </>
   );
-};
+}
+
+export default App;
