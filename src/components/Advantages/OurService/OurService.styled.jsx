@@ -12,10 +12,11 @@ export const ServiceUl = styled.ul`
 export const ServiceLi = styled.li`
   display: flex;
   padding: 15px 0 15px 15px;
+  align-items: center;
   border-radius: 12px;
-  border: 1px solid ${variables.logoSecondary};
-  gap: 10px;
-  background-color: ${variables.serviceTitle};
+  border: 1px solid ${variables.headerBorderColor};
+  gap: 3px;
+  background-color: ${variables.headerBgc};
   box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
 `;
@@ -40,13 +41,13 @@ export const ServiceTextWrapper = styled.div`
 export const ServiceTitle = styled.h3`
   font-size: 20px;
   font-weight: 700;
-  letter-spacing: 0.45px;
+  letter-spacing: 0.99px;
   padding-bottom: 5px;
-  color: #003a21;
+  color: ${variables.linkColor};
 `;
 export const ServiceText = styled.p`
   width: 420px;
   font-size: 18px;
   padding-right: 10px;
-  color: ${variables.background};
+  color: ${variables.serviceTitle};
 `;

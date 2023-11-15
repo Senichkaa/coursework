@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import variables from 'common/Variables';
 
 export const AdvantagesSection = styled.section`
-  background-color: ${variables.headerBgc};
+  /* background-color: ${variables.headerBgc}; */
   padding-bottom: 70px;
 `;
 export const AdvantagesDivWrapper = styled.div`
@@ -43,8 +43,8 @@ export const AdvantageBackRect = styled.div`
   padding: 0 40px;
   margin-left: auto;
   border-radius: 12px;
-  border: 2px solid ${variables.logoSecondary};
-  background-color: ${variables.linkColor};
+  border: 2px solid ${variables.serviceTitle};
+  background-color: ${variables.advantageRectBg}
   box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
 `;

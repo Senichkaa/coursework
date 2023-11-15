@@ -6,5 +6,6 @@ const variables = {
   linkColor: '#d3d3d3;',
   background: '#1a1a1a',
   serviceTitle: '#bcb7b7;',
+  advantageRectBg: '#515151;',
 };
 export default variables;

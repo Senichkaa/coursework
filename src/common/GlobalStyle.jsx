@@ -22,6 +22,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   font-style: normal;
+  color: ${variables.linkColor};
   background-color: ${variables.background};
   width: 100%;
   height: 100vh;
