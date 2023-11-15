@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/coursework/static/css/main.7acaea2f.css",
-    "main.js": "/coursework/static/js/main.f1a7820c.js",
-    "static/js/38.90e008b3.chunk.js": "/coursework/static/js/38.90e008b3.chunk.js",
+    "main.js": "/coursework/static/js/main.e4e993ae.js",
+    "static/js/254.ceced57a.chunk.js": "/coursework/static/js/254.ceced57a.chunk.js",
     "static/js/69.74cdbcc1.chunk.js": "/coursework/static/js/69.74cdbcc1.chunk.js",
     "static/js/899.7ea5785f.chunk.js": "/coursework/static/js/899.7ea5785f.chunk.js",
     "static/js/306.d0eefd45.chunk.js": "/coursework/static/js/306.d0eefd45.chunk.js",
@@ -12,17 +12,18 @@
     "static/media/g-wagon.png": "/coursework/static/media/g-wagon.ab48e53f625d1d2fa668.png",
     "static/media/lmu-trnsprt.png": "/coursework/static/media/lmu-trnsprt.d8266231d8e78c343cf0.png",
     "static/media/Montserrat.woff2": "/coursework/static/media/Montserrat.63b09632586acfb651b6.woff2",
+    "static/media/icon-sprite.svg": "/coursework/static/media/icon-sprite.459427a98d3fc1d66a415c8be2959091.svg",
     "static/media/icons.svg": "/coursework/static/media/icons.ed65dcbe5aff8d72f7c52f085a04b298.svg",
     "index.html": "/coursework/index.html",
     "main.7acaea2f.css.map": "/coursework/static/css/main.7acaea2f.css.map",
-    "main.f1a7820c.js.map": "/coursework/static/js/main.f1a7820c.js.map",
-    "38.90e008b3.chunk.js.map": "/coursework/static/js/38.90e008b3.chunk.js.map",
+    "main.e4e993ae.js.map": "/coursework/static/js/main.e4e993ae.js.map",
+    "254.ceced57a.chunk.js.map": "/coursework/static/js/254.ceced57a.chunk.js.map",
     "69.74cdbcc1.chunk.js.map": "/coursework/static/js/69.74cdbcc1.chunk.js.map",
     "899.7ea5785f.chunk.js.map": "/coursework/static/js/899.7ea5785f.chunk.js.map",
     "306.d0eefd45.chunk.js.map": "/coursework/static/js/306.d0eefd45.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.f1a7820c.js"
+    "static/js/main.e4e993ae.js"
   ]
 }
