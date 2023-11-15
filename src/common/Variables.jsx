@@ -4,5 +4,7 @@ const variables = {
   logoPrimary: '#D69723',
   logoSecondary: '#575C0E',
   linkColor: '#d3d3d3;',
+  background: '#1a1a1a',
+  serviceTitle: '#bcb7b7;',
 };
 export default variables;

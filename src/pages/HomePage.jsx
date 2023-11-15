@@ -1,6 +1,6 @@
 import React from 'react';
 import Hero from 'components/Hero/Hero';
-import Advantages from 'Advantages/Advantages';
+import Advantages from 'components/Advantages/Advantages';
 
 function HomePage() {
   return (

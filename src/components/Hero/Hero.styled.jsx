@@ -7,7 +7,7 @@ export const HeroSection = styled.section`
   background-repeat: no-repeat;
   background-size: contain;
   background-position: calc(50% - 400px);
-  margin: 75px 0px 0px 0px;
+  margin: 50px 0px 0px 0px;
   height: 500px;
 `;
 
@@ -23,6 +23,7 @@ export const HeroTitle = styled.h1`
   text-transform: uppercase;
   color: ${variables.linkColor};
   padding-bottom: 15px;
+  letter-spacing: 0.7px;
 `;
 
 export const HeroSpan = styled.span`
@@ -33,6 +34,8 @@ export const HeroText = styled.p`
   font-size: 24px;
   color: ${variables.linkColor};
   padding-bottom: 15px;
+  line-height: 1.15;
+  letter-spacing: 0.85px;
 `;
 
 export const HeroSecondText = styled.p`
@@ -40,6 +43,8 @@ export const HeroSecondText = styled.p`
   position: relative;
   color: ${variables.linkColor};
   padding-bottom: 15px;
+  line-height: 1.15;
+  letter-spacing: 0.85px;
 
   &::after {
     content: '';

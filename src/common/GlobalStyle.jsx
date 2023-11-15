@@ -1,11 +1,12 @@
 // import styled from 'styled-components';
 import { createGlobalStyle } from 'styled-components';
-import Roboto from '../fonts/roboto-regular.woff2';
+import Montserrat from '../fonts/Montserrat.woff2';
+import variables from './Variables';
 
 export const GlobalStyle = createGlobalStyle`
 @font-face {
   font-family: 'Roboto', sans-serif;
-  src: url(${Roboto}) format('woff2');
+  src: url(${Montserrat}) format('woff2');
        
 }
 
@@ -18,10 +19,10 @@ export const GlobalStyle = createGlobalStyle`
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   font-style: normal;
-  background-color: #1a1a1a;
+  background-color: ${variables.background};
   width: 100%;
   height: 100vh;
   margin: 0;
