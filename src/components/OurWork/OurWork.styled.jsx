@@ -1,6 +1,10 @@
 import styled from 'styled-components';
 import variables from 'common/Variables';
 
+export const WorkSection = styled.section`
+  padding-bottom: 70px;
+`;
+
 export const WorkTextWrapper = styled.div`
   width: 1000px;
   margin: 0 auto;
@@ -9,7 +13,7 @@ export const WorkTextWrapper = styled.div`
   flex-direction: column;
 `;
 
-export const WorkTitle = styled.h3`
+export const WorkTitle = styled.h2`
   font-size: 34px;
   text-transform: uppercase;
   line-height: 1.2;
@@ -29,7 +33,7 @@ export const WorkText = styled.p`
   text-align: center;
   font-size: 24px;
   letter-spacing: 0.55px;
-  line-height: 1.2;
+  line-height: 1.35;
   color: ${variables.linkColor};
-  padding-bottom: 45px;
+  padding-bottom: 60px;
 `;

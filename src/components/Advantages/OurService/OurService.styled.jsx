@@ -25,11 +25,12 @@ export const ServiceIcon = styled.div`
   width: 40px;
   height: 60px;
 
-  border-radius: 12px;
+  border-radius: 14px;
   border: 1px solid ${variables.headerBorderColor};
   background-color: #b7b5b5;
-  padding-top: 16px;
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin-right: 15px;
 `;
 
