@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/coursework/static/css/main.7acaea2f.css",
-    "main.js": "/coursework/static/js/main.deb8ebb7.js",
-    "static/js/400.c3c22393.chunk.js": "/coursework/static/js/400.c3c22393.chunk.js",
+    "main.js": "/coursework/static/js/main.f1a7820c.js",
+    "static/js/38.90e008b3.chunk.js": "/coursework/static/js/38.90e008b3.chunk.js",
     "static/js/69.74cdbcc1.chunk.js": "/coursework/static/js/69.74cdbcc1.chunk.js",
     "static/js/899.7ea5785f.chunk.js": "/coursework/static/js/899.7ea5785f.chunk.js",
     "static/js/306.d0eefd45.chunk.js": "/coursework/static/js/306.d0eefd45.chunk.js",
@@ -15,14 +15,14 @@
     "static/media/icons.svg": "/coursework/static/media/icons.ed65dcbe5aff8d72f7c52f085a04b298.svg",
     "index.html": "/coursework/index.html",
     "main.7acaea2f.css.map": "/coursework/static/css/main.7acaea2f.css.map",
-    "main.deb8ebb7.js.map": "/coursework/static/js/main.deb8ebb7.js.map",
-    "400.c3c22393.chunk.js.map": "/coursework/static/js/400.c3c22393.chunk.js.map",
+    "main.f1a7820c.js.map": "/coursework/static/js/main.f1a7820c.js.map",
+    "38.90e008b3.chunk.js.map": "/coursework/static/js/38.90e008b3.chunk.js.map",
     "69.74cdbcc1.chunk.js.map": "/coursework/static/js/69.74cdbcc1.chunk.js.map",
     "899.7ea5785f.chunk.js.map": "/coursework/static/js/899.7ea5785f.chunk.js.map",
     "306.d0eefd45.chunk.js.map": "/coursework/static/js/306.d0eefd45.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.deb8ebb7.js"
+    "static/js/main.f1a7820c.js"
   ]
 }
