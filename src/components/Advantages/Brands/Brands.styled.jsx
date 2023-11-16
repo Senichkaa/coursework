@@ -11,7 +11,7 @@ const marquee = keyframes`
 `;
 
 export const BrandsUl = styled.ul`
-  padding: 50px;
+  padding: 20px 0 100px 0;
   display: flex;
   align-items: center;
   justify-content: center;

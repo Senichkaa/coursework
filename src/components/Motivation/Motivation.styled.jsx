@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import variables from 'common/Variables';
 
 export const MotivationSection = styled.section`
-  padding: 35px 0 70px 0;
+  margin-top: 100px;
   display: flex;
 `;
 
