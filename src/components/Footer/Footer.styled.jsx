@@ -54,7 +54,7 @@ export const Wrapper = styled.div`
 `;
 
 export const FooterImage = styled.img`
-  width: 200px;
+  width: 250px;
 `;
 
 export const ImageWrapper = styled(Wrapper)`

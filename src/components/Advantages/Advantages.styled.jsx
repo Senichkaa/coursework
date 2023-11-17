@@ -3,7 +3,7 @@ import variables from 'common/Variables';
 
 export const AdvantagesSection = styled.section`
   /* background-color: ${variables.headerBgc}; */
-  margin-top: 100px;
+  padding-top: 100px;
 `;
 export const AdvantagesDivWrapper = styled.div`
   margin: 0 auto;

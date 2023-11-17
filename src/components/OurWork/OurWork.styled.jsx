@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import variables from 'common/Variables';
 
 export const WorkSection = styled.section`
-  margin-top: 100px;
+  padding-top: 100px;
 `;
 
 export const WorkTextWrapper = styled.div`
