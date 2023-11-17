@@ -1,0 +1,49 @@
+[
+  {
+    "brand": "Mercedes-Benz",
+    "model": "G-65",
+    "type": "SUV",
+    "color": "black",
+    "engine": "5.5L V8",
+    "year": "2018",
+    "transmisson": "AWD",
+    "features": [
+      "Sunroof",
+      "Navigation System,",
+      "Adaptive Cruise Control",
+      "Climate Control"
+    ],
+    "price": "$150000"
+  },
+  {
+    "brand": "Audi",
+    "model": "RS6 Avant",
+    "type": "Wagon",
+    "color": "gray",
+    "engine": "4.0L V8",
+    "year": "2016",
+    "transmisson": "4WD",
+    "features": [
+      "LED Headlights",
+      "Bang & Olufsen 3D Sound System",
+      "Heated Front Seats",
+      "Analogue Speedometer"
+    ],
+    "price": "$80500"
+  },
+  {
+    "brand": "Porsche",
+    "model": "911 Carrera S Coupe",
+    "type": "Coupe",
+    "engine": "3.0L H6",
+    "year": "2022",
+    "transmisson": "RWD",
+    "features": [
+      "Start Stop Button",
+      "Air Conditioner",
+      "Multi-function Steering Wheel",
+      "Driver&Passenger Airbag"
+    ],
+    "price": "$103000"
+  }
+]
