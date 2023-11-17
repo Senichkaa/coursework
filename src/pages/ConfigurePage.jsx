@@ -1,11 +1,8 @@
 import React from 'react';
+import ConfigureBody from 'components/ConfigureBody/ConfigureBody';
 
 function ConfigurePage() {
-  return (
-    <div>
-      <p>Hi, its ConfigurePage.jsx</p>
-    </div>
-  );
+  return <ConfigureBody />;
 }
 
 export default ConfigurePage;
