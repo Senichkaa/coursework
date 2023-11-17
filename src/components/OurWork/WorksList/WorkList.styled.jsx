@@ -2,8 +2,8 @@ import styled from 'styled-components';
 import variables from 'common/Variables';
 
 export const WorkIcon = styled.div`
-  width: 40px;
-  height: 40px;
+  width: 45px;
+  height: 45px;
 
   display: flex;
   justify-content: center;
