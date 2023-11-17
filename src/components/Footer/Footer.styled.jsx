@@ -35,7 +35,7 @@ export const FooterCopyrightCont = styled.div`
   justify-content: center;
   align-items: center;
   background-color: ${variables.headerBgc};
-  padding: 15px 0 20px 0;
+  padding: 8px 0 8px 0;
 `;
 
 export const NameSpan = styled.span`
@@ -67,6 +67,8 @@ export const FooterTitle = styled.h3`
   display: flex;
   justify-content: center;
   font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.95px;
   font-weight: 600;
   color: ${variables.logoPrimary};
 `;

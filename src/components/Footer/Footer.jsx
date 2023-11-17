@@ -54,7 +54,7 @@ function Footer() {
             </NavLink>
           </ImageWrapper>
           <Wrapper>
-            <FooterTitle>Follow us</FooterTitle>
+            <FooterTitle>Inform yourself</FooterTitle>
             <SocialsWrapper>
               <SocialIcon
                 target="_blank"
