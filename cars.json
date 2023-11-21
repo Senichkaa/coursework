@@ -1,5 +1,7 @@
 [
   {
+    "id": 1,
+    "img": "https://www.nicepng.com/png/detail/29-298110_new-2018-mercedes-benz-g-class-g-2018.png",
     "brand": "Mercedes-Benz",
     "model": "G-65",
     "type": "SUV",
@@ -16,6 +18,8 @@
     "description": "Mercedes-Benz G65: Unleash power with precision. This iconic SUV marries luxury and performance effortlessly."
   },
   {
+    "id": 2,
+    "img": "https://w7.pngwing.com/pngs/58/418/png-transparent-audi-rs-6-audi-rs7-2016-audi-a6-audi-s8-luxury-car-compact-car-sedan-car.png",
     "brand": "Audi",
     "model": "RS6 Avant",
     "type": "Wagon",
@@ -32,6 +36,8 @@
     "description": "Precision meets power in Audi RS6 Avant. Elevate your driving experience with this sporty yet practical masterpiece."
   },
   {
+    "id": 3,
+    "img": "https://w7.pngwing.com/pngs/207/278/png-transparent-porsche-911-gt2-2018-porsche-911-turbo-coupe-car-porsche-930-2017-porsche-911-compact-car-convertible-car.png",
     "brand": "Porsche",
     "model": "911 Carrera S Coupe",
     "type": "Coupe",
@@ -48,6 +54,8 @@
     "description": "Porsche 911 Carrera S Coupe is sculpted for speed, crafted for luxury. A driving experience like no other."
   },
   {
+    "id": 4,
+    "img": "https://cdn.carbuzz.com/car-thumbnails/700x375/13000/500/13575.jpg",
     "brand": "Mercedes-Maybach",
     "model": "S680",
     "type": "Sedan",
@@ -64,8 +72,10 @@
     "description": "Experience grandeur on wheels with the Mercedes-Maybach S 680 4MATIC. Unrivaled luxury meets cutting-edge technology."
   },
   {
-    "brand": "Land Rover",
-    "model": "Range Rover Velar",
+    "id": 5,
+    "img": "https://w7.pngwing.com/pngs/31/55/png-transparent-jaguar-land-rover-car-range-rover-evoque-2018-land-rover-range-rover-velar-p380-se-r-dynamic-land-rover-compact-car-car-vehicle.png",
+    "brand": "Range Rover",
+    "model": "Velar",
     "type": "SUV",
     "engine": "3.0L V6",
     "year": "2023",
@@ -80,6 +90,8 @@
     "description": "Discover the art of driving with the Range Rover Velar – where style, comfort, and performance converge."
   },
   {
+    "id": 6,
+    "img": "https://www.motortrend.com/uploads/2021/03/2021-Ferrari-Roma-1.png",
     "brand": "Ferrari",
     "model": "Roma",
     "type": "Coupe",
@@ -96,6 +108,8 @@
     "description": "Ferrari Roma - La Nuova Dolce Vita!"
   },
   {
+    "id": 7,
+    "img": "https://w7.pngwing.com/pngs/1016/38/png-transparent-2013-bentley-continental-gt-bentley-continental-gtc-car-bentley-continental-flying-spur-speed-compact-car-car-performance-car.png",
     "brand": "Bentley",
     "model": "Continental GT",
     "type": "Coupe",
@@ -112,6 +126,8 @@
     "description": "In the Bentley Continental GT, every drive is a celebration of refined style and uncompromising performance."
   },
   {
+    "id": 8,
+    "img": "https://images.pngnice.com/download/2007/Lamborghini-Urus-PNG-Pic.png",
     "brand": "Lamborghini",
     "model": "Urus",
     "type": "SUV",
@@ -128,6 +144,8 @@
     "description": "Lamborghini Urus: More than an SUV, it's a statement. A fusion of power, prestige, and the unmistakable allure of Italian design."
   },
   {
+    "id": 9,
+    "img": "https://www.supersprint.com/public/img/01-279708.jpg",
     "brand": "BMW",
     "model": "M5 F90",
     "type": "Sedan",
@@ -144,6 +162,8 @@
     "description": "Take command of the road with the BMW M5 F90 – where cutting-edge technology meets the pure joy of dynamic driving"
   },
   {
+    "id": 10,
+    "img": "https://images.dealer.com/ddc/vehicles/2021/Rolls-Royce/Phantom/Sedan/perspective/front-left/2021_76.png",
     "brand": "Rolls-Royce",
     "model": "Phantom",
     "type": "Sedan",
@@ -160,6 +180,8 @@
     "description": "The Rolls-Royce Phantom epitomizes unparalleled luxury and craftsmanship, offering a serene and opulent driving experience."
   },
   {
+    "id": 11,
+    "img": "https://w7.pngwing.com/pngs/101/554/png-transparent-lexus-lx-mini-toyota-rav4-car-luxury-european-glass-car-vehicle.png",
     "brand": "Lexus",
     "model": "LX",
     "type": "SUV",
@@ -176,6 +198,8 @@
     "description": "The Lexus LX is a premium SUV that combines off-road capability with sophisticated luxury and advanced safety features."
   },
   {
+    "id": 12,
+    "img": "https://p7.hiclipart.com/preview/776/182/435/mercedes-maybach-mercedes-benz-s-class-luxury-vehicle-vip-rent-a-car.jpg",
     "brand": "Mercedes-Benz",
     "model": "S-Class",
     "type": "Sedan",
@@ -192,6 +216,8 @@
     "description": "The 2019 Mercedes-Benz S-Class sets new benchmarks in luxury and technology, offering a plush ride and cutting-edge features."
   },
   {
+    "id": 13,
+    "img": "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f6efbb65-d7cf-4a96-a011-c4eef62905f5/3e55fba2-1438-4ead-a566-2240c49e7239.png",
     "brand": "Jaguar",
     "model": "XJ",
     "type": "Sedan",
@@ -208,6 +234,8 @@
     "description": "The 2018 Jaguar XJ combines elegant design with powerful performance, offering a luxurious and exhilarating driving experience."
   },
   {
+    "id": 14,
+    "img": "https://w7.pngwing.com/pngs/874/958/png-transparent-2018-porsche-panamera-e-hybrid-sport-turismo-car-2018-porsche-panamera-4s-car-seats-compact-car-car-performance-car.png",
     "brand": "Porsche",
     "model": "Panamera",
     "type": "Sedan",
@@ -224,22 +252,27 @@
     "description": "The 2022 Porsche Panamera redefines sporty elegance in the luxury sedan segment, offering a thrilling driving experience and exquisite craftsmanship."
   },
   {
-    "brand": "Mercedes-Benz",
-    "model": "S-Class",
-    "type": "Sedan",
+    "id": 15,
+    "img": "https://mediaservice.audi.com/media/cdb/data/3e151961-905e-4c44-8b5e-1c1e0a78856b.jpg",
+    "brand": "Audi",
+    "model": "RS Q8",
+    "type": "SUV",
     "engine": "4.0L V8",
     "year": "2022",
     "transmission": "AWD",
     "features": [
-      "Magic Sky Control",
-      "Burmester High-End 3D Surround Sound System",
-      "Leather Upholstery",
-      "Heated and Ventilated Seats"
+      "Quattro All-Wheel Drive",
+      "RS Adaptive Air Suspension",
+      "Virtual Cockpit Plus",
+      "Bang & Olufsen Premium 3D Sound System",
+      "Audi Drive Select with RS Modes"
     ],
-    "price": "$120000",
-    "description": "The 2022 Mercedes-Benz S-Class redefines luxury with cutting-edge technology and a sumptuous interior, providing the pinnacle of comfort and performance."
+    "price": "$130000",
+    "description": "The 2022 Audi RS Q8 combines the practicality of an SUV with the heart-pounding performance of an RS model. With its powerful V8 engine, advanced suspension, and luxurious features, the RS Q8 delivers an exhilarating driving experience."
   },
   {
+    "id": 16,
+    "img": "https://e7.pngegg.com/pngimages/452/296/png-clipart-porsche-macan-2017-porsche-911-carrera-s-2017-porsche-911-carrera-gts-2018-porsche-911-turbo-porsche-compact-car-convertible.png",
     "brand": "Porsche",
     "model": "911",
     "type": "Coupe",
@@ -256,6 +289,8 @@
     "description": "The 2020 Porsche 911 is an iconic sports car, combining precision engineering with timeless design, delivering an exhilarating driving experience."
   },
   {
+    "id": 17,
+    "img": "https://www.motortrend.com/uploads/sites/5/2020/06/2021-bmw-7series.png",
     "brand": "BMW",
     "model": "7 Series",
     "type": "Sedan",
@@ -272,6 +307,8 @@
     "description": "The 2019 BMW 7 Series epitomizes luxury and performance, offering a seamless blend of advanced technology and opulent comfort."
   },
   {
+    "id": 18,
+    "img": "https://www.vhv.rs/dpng/d/478-4781710_2018-lexus-ls-lexus-lexus-ls-hd-png.png",
     "brand": "Lexus",
     "model": "LS",
     "type": "Sedan",
@@ -288,6 +325,8 @@
     "description": "The 2015 Lexus LS offers a blend of opulence and performance, with a refined interior and advanced technology, providing a luxurious driving experience."
   },
   {
+    "id": 19,
+    "img": "https://e7.pngegg.com/pngimages/955/92/png-clipart-2018-audi-s8-audi-a8-car-nissan-rogue-audi-compact-car-sedan.png",
     "brand": "Audi",
     "model": "A8",
     "type": "Sedan",
@@ -304,6 +343,8 @@
     "description": "The 2018 Audi A8 exemplifies elegance and innovation, featuring cutting-edge technology and a luxurious interior for a sophisticated driving experience."
   },
   {
+    "id": 20,
+    "img": "https://d2ivfcfbdvj3sm.cloudfront.net/7fc965ab77efe6e0fa62e4ca1ea7673bb25e4552021e3d8e88cb/stills_0640_png/MY2021/14439/14439_st0640_116.png",
     "brand": "Jaguar",
     "model": "F-Type",
     "type": "Coupe",
@@ -320,6 +361,8 @@
     "description": "The 2021 Jaguar F-Type combines breathtaking performance with a luxurious interior, making it an icon of modern sports car design."
   },
   {
+    "id": 21,
+    "img": "https://maserati.scene7.com/is/image/maserati/maserati/international/Models/default/2021/quattroporte/quattroporte-front.png?$1400x2000$&fmt=png-alpha&fit=constrain",
     "brand": "Maserati",
     "model": "Quattroporte",
     "type": "Sedan",
@@ -336,6 +379,8 @@
     "description": "The 2019 Maserati Quattroporte combines Italian elegance with exhilarating performance, offering a luxurious and powerful driving experience."
   },
   {
+    "id": 22,
+    "img": "https://images.dealer.com/ddc/vehicles/2022/Rolls-Royce/Ghost/Sedan/color/Anthracite-BK05-51,46,45-640-en_US.jpg",
     "brand": "Rolls-Royce",
     "model": "Ghost",
     "type": "Sedan",
@@ -352,6 +397,8 @@
     "description": "The 2023 Rolls-Royce Ghost represents the pinnacle of luxury motoring, with bespoke features and unparalleled craftsmanship, providing a serene and luxurious driving experience."
   },
   {
+    "id": 23,
+    "img": "https://e7.pngegg.com/pngimages/208/876/png-clipart-2016-ferrari-488-spider-2016-ferrari-488-gtb-2017-ferrari-488-gtb-car-ferrari-performance-car-vehicle.png",
     "brand": "Ferrari",
     "model": "488 GTB",
     "type": "Coupe",
@@ -368,6 +415,8 @@
     "description": "The 2017 Ferrari 488 GTB is a true icon of Italian performance, featuring a powerful V8 engine and aerodynamic design, delivering an exhilarating and stylish driving experience."
   },
   {
+    "id": 24,
+    "img": "https://www.pngitem.com/pimgs/m/628-6284307_lamborghini-huracan-lp610-4-hd-png-download.png",
     "brand": "Lamborghini",
     "model": "Huracan",
     "type": "Coupe",
@@ -384,6 +433,8 @@
     "description": "The 2021 Lamborghini Huracan is a masterpiece of Italian engineering and design, offering blistering performance and a striking appearance for an unforgettable driving experience."
   },
   {
+    "id": 25,
+    "img": "https://w7.pngwing.com/pngs/197/833/png-transparent-mclaren-720s-car-geneva-motor-show-mclaren-p1-mclaren-car-mode-of-transport-performance-car.png",
     "brand": "McLaren",
     "model": "720S",
     "type": "Coupe",
@@ -400,6 +451,8 @@
     "description": "The 2020 McLaren 720S is a cutting-edge supercar, featuring advanced aerodynamics and a potent V8 engine, delivering a thrilling and high-performance driving experience."
   },
   {
+    "id": 26,
+    "img": "https://www.pngmart.com/files/22/BMW-E60-M5-PNG-Photos.png",
     "brand": "BMW",
     "model": "M5 E60",
     "type": "Sedan",
@@ -416,6 +469,8 @@
     "description": "The 2008 BMW M5 E60 is a legendary high-performance sedan, featuring a high-revving V10 engine and a perfect blend of luxury and sportiness. With its iconic design and exhilarating driving dynamics, the M5 E60 remains a true enthusiast's choice."
   },
   {
+    "id": 27,
+    "img": "https://p1.hiclipart.com/preview/922/75/589/luxury-porsche-911-gt3-porsche-911-gt2-car-sports-car-gt-3-porsche-911-991-gt-2-png-clipart.jpg",
     "brand": "Porsche",
     "model": "911 GT3 RS",
     "type": "Coupe",
@@ -432,6 +487,8 @@
     "description": "The 2019 Porsche 911 GT3 RS (991.2) is a pinnacle of track-focused performance, with a high-revving naturally aspirated engine, aerodynamic enhancements, and a luxurious interior. It embodies the perfect balance between precision engineering and driving passion."
   },
   {
+    "id": 28,
+    "img": "https://w7.pngwing.com/pngs/120/725/png-transparent-laferrari-car-enzo-ferrari-ferrari-458-ferrari-compact-car-car-performance-car.png",
     "brand": "Ferrari",
     "model": "LaFerrari",
     "type": "Coupe",
@@ -448,6 +505,8 @@
     "description": "The 2016 Ferrari LaFerrari is an extraordinary hypercar, combining a V12 engine with hybrid technology for unparalleled performance. Its striking design and advanced features make it a symbol of automotive excellence."
   },
   {
+    "id": 29,
+    "img": "https://c0.klipartz.com/pngpicture/187/726/gratis-png-2015-lamborghini-aventador-2016-lamborghini-aventador-coche-2012-lamborghini-aventador-lamborghini.png",
     "brand": "Lamborghini",
     "model": "Aventador SVJ",
     "type": "Coupe",
@@ -464,6 +523,8 @@
     "description": "The 2020 Lamborghini Aventador SVJ is a pinnacle of performance and aerodynamics, featuring a powerful V12 engine and cutting-edge technology. Its aggressive styling and track-focused capabilities make it a true icon."
   },
   {
+    "id": 30,
+    "img": "https://www.pngitem.com/pimgs/m/518-5189872_mercedes-amg-gt-r-png-transparent-png.png",
     "brand": "Mercedes-AMG",
     "model": "GT R",
     "type": "Coupe",
@@ -480,6 +541,8 @@
     "description": "The 2018 Mercedes-AMG GT R is a high-performance sports car, known for its menacing appearance and thrilling driving dynamics. With advanced technology and AMG craftsmanship, it's a true driving enthusiast's dream."
   },
   {
+    "id": 31,
+    "img": "https://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIiBOTrayfuvpGh6-m1zJgaGigIGBgZGoDhTtNOaz-I_2DhCHkCFmXgZWMpTkwoYgSrcmLgycxPTU_VBArz____nZ-QustBNrSjRzUvNzWcHKhHgiZsfe9Uw6_id7Q-9vswPcnnBfueZOAPP3grF3yxxFgI3n5y43Pn3pGz6dQtBBp59fAsPOYl-uWR4gufeu5us74Jn1P5l4LltMn-3SA177CFbrq5_kb0MtW8_HWPgETl4fvrX-79uv39rNs_JalaDlKXfIgYehXNVKhpmE0_nKuaW_DNR9ru14HcBA0_cB6GPmvNEj3uvOryeM5MnuEbwFQ8DD7v4zPtCT0ymznh0atEUX_fuO_YbPRh4jPbH_LWPWLZnCnf8-Zf7DTy6qo9tYuDZ5BFlEuYldPHp673FbfO7Xy5ivN3AwOMkJuH46LT9rwMK8W_Te-u9Z6X_TGPgqTwu-VmLWW4_O-93g-e72xenFWpmMfD87b65bEZKN5Pmwj2S3CzsunJ3-02Bvoj8r609ceu1szyzd7T7K_6rZJZhZOAJYl9WELzake_-lreTGdJ2TrZjtSpn4HmlqKobv7xXdLKfcsmdVqb9hfzdHgyswIhg2g0kWKKABM8TIMFhwwAmQVEUAyQYG0B81iXMDAzcDgwMbCEMIMAnXFqUU5BYlJirV5RaXJCfV5xZliqoYUAkEGb1cYx0DQIAXi6eGUACAAA?mimetype=image/png",
     "brand": "Audi",
     "model": "R8 Spyder",
     "type": "Convertible",
@@ -496,6 +559,8 @@
     "description": "The 2021 Audi R8 Spyder is a convertible supercar, blending the thrill of open-top driving with the power of a V10 engine. Its striking design and advanced technology make it a standout in the premium sports car segment."
   },
   {
+    "id": 32,
+    "img": "https://www.kindpng.com/picc/m/202-2028400_nissan-gt-r-nismo-pixel-nissan-gtr-nismo.png",
     "brand": "Nissan",
     "model": "GT-R Nismo",
     "type": "Coupe",
@@ -512,6 +577,8 @@
     "description": "The 2020 Nissan GT-R Nismo is a high-performance legend, featuring advanced aerodynamics and a powerful V6 engine. Its racing-inspired design and cutting-edge technology make it a formidable presence on and off the track."
   },
   {
+    "id": 33,
+    "img": "https://www.vhv.rs/dpng/d/310-3109891_mclaren-p-png-mclaren-p1-png-transparent-png.png",
     "brand": "Mclaren",
     "model": "P1",
     "type": "Coupe",
@@ -528,9 +595,11 @@
     "description": "The 2015 McLaren P1 is a hybrid hypercar, combining electric power with a potent V8 engine. With its futuristic design and Formula 1-inspired technology, it stands as a testament to McLaren's commitment to performance and innovation."
   },
   {
+    "id": 34,
+    "img": "https://w7.pngwing.com/pngs/724/222/png-transparent-2017-audi-rs-7-car-2018-audi-rs-7-4-0t-performance-price-audi-sedan-car-performance-car.png",
     "brand": "Audi",
     "model": "RS7",
-    "type": "Sportback",
+    "type": "Sedan",
     "engine": "4.0L V8",
     "year": "2022",
     "transmission": "AWD",
@@ -544,6 +613,8 @@
     "description": "The 2022 Audi RS7 Sportback is a sleek and powerful sedan, blending performance with avant-garde design. With its Twin-Turbo V8 and cutting-edge technology, it offers a thrilling and luxurious driving experience."
   },
   {
+    "id": 35,
+    "img": "https://w7.pngwing.com/pngs/672/552/png-transparent-2018-lexus-gs-car-lexus-is-luxury-vehicle-lexus-f-compact-car-sedan-car.png",
     "brand": "Lexus",
     "model": "GS F",
     "type": "Sedan",
@@ -560,6 +631,8 @@
     "description": "The 2019 Lexus GS F is a luxury sedan with a focus on performance. Powered by a V8 engine and equipped with premium features, it offers a refined driving experience with a touch of sportiness."
   },
   {
+    "id": 36,
+    "img": "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/081e0aa4-07c5-42ee-aa20-65071589662b/644dc4e9-96d7-4ba6-93c7-15ac598b108c.png",
     "brand": "Mercedes-Benz",
     "model": "E63s",
     "type": "Sedan",
@@ -576,6 +649,8 @@
     "description": "The 2022 Mercedes-Benz E63s is a performance-oriented luxury sedan, powered by a potent Twin-Turbo V8 engine. With its sophisticated design, advanced technology, and AMG enhancements, it delivers an exhilarating driving experience with uncompromised comfort."
   },
   {
+    "id": 37,
+    "img": "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f337a713-b8a2-4a21-ac72-2adffd8ccc88/8ae3ce08-13cd-45dd-a652-b4d1df673162.png",
     "brand": "Lexus",
     "model": "LS 500h",
     "type": "Sedan",
@@ -592,6 +667,8 @@
     "description": "The 2022 Lexus LS 500h is a flagship luxury sedan, combining cutting-edge hybrid technology with opulent features. Its spacious interior and advanced safety systems make it the epitome of Lexus luxury."
   },
   {
+    "id": 38,
+    "img": "https://images.dealer.com/ddc/vehicles/2022/Rolls-Royce/Cullinan/SUV/color/Black%20Kirsch-R19-1,1,1-640-en_US.jpg",
     "brand": "Rolls-Royce",
     "model": "Cullinan",
     "type": "SUV",
@@ -608,6 +685,8 @@
     "description": "The 2023 Rolls-Royce Cullinan is the pinnacle of luxury SUVs, featuring a powerful V12 engine and the iconic craftsmanship of Rolls-Royce. With its commanding presence and opulent interior, it offers a regal driving experience."
   },
   {
+    "id": 39,
+    "img": "https://di-uploads-pod6.dealerinspire.com/landrovercoloradosprings/uploads/2017/06/Land-Rover-Colorado-Springs-2017-Range-Rover-SVAutobiography-1.png",
     "brand": "Range Rover",
     "model": "SVAutobiography Dynamic",
     "type": "SUV",
@@ -624,6 +703,8 @@
     "description": "The 2022 Range Rover SVAutobiography Dynamic is a flagship SUV, combining unparalleled luxury with off-road capabilities. With its powerful V8 engine and bespoke interior, it represents the pinnacle of Range Rover craftsmanship."
   },
   {
+    "id": 40,
+    "img": "https://w7.pngwing.com/pngs/350/341/png-transparent-2018-porsche-cayenne-car-sport-utility-vehicle-manumatic-porsche-compact-car-car-vehicle.png",
     "brand": "Porsche",
     "model": "Cayenne Turbo S E-Hybrid",
     "type": "SUV",
@@ -640,6 +721,8 @@
     "description": "The 2023 Porsche Cayenne Turbo S E-Hybrid is a high-performance plug-in hybrid SUV, delivering a thrilling driving experience without compromising on luxury. Its advanced technology and sporty design make it a standout in the premium SUV segment."
   },
   {
+    "id": 41,
+    "img": "https://larte.store/wp-content/uploads/2021/12/gle-amg-coupe-front-site-winner-carbon.png",
     "brand": "Mercedes-AMG",
     "model": "GLE 63 S",
     "type": "SUV",
@@ -656,6 +739,8 @@
     "description": "The 2022 Mercedes-AMG GLE 63 S is a high-performance SUV, combining the versatility of an SUV with the power of an AMG V8 engine. With its aggressive design and cutting-edge features, it offers a dynamic driving experience."
   },
   {
+    "id": 42,
+    "img": "https://image.pngaaa.com/361/2132361-middle.png",
     "brand": "Bentley",
     "model": "Bentayga",
     "type": "SUV",
@@ -672,6 +757,8 @@
     "description": "The 2023 Bentley Bentayga is a luxury SUV that redefines opulence and performance. With its W12 engine and bespoke interior, it offers a first-class driving experience in a spacious and sophisticated package."
   },
   {
+    "id": 43,
+    "img": "https://i.pinimg.com/originals/08/a3/cc/08a3cc28e1005bb90e62a2d805252341.png  ",
     "brand": "Bentley",
     "model": "Flying Spur",
     "type": "Sedan",
@@ -688,6 +775,8 @@
     "description": "The 2023 Bentley Flying Spur is a luxury sedan that combines opulence with performance. Its W12 engine and handcrafted interior make it a flagship model for those who seek the pinnacle of Bentley luxury."
   },
   {
+    "id": 44,
+    "img": "https://vehicle-images.dealerinspire.com/7d6b-110010489/JTHMPAAY9RA108792/7f8085e28bf1f7265812f2715955d2eb.png",
     "brand": "Lexus",
     "model": "LC 500 Convertible",
     "type": "Convertible",
@@ -704,6 +793,8 @@
     "description": "The 2023 Lexus LC 500 Convertible is a luxury convertible that delivers a blend of performance and elegance. With its V8 engine and sophisticated features, it provides a thrilling and stylish driving experience."
   },
   {
+    "id": 45,
+    "img": "https://w7.pngwing.com/pngs/632/980/png-transparent-2018-bentley-mulsanne-car-bentley-continental-flying-spur-2017-bentley-mulsanne-bentley-sedan-car-vehicle.png",
     "brand": "Bentley",
     "model": "Mulsanne",
     "type": "Sedan",
@@ -720,6 +811,8 @@
     "description": "The 2023 Bentley Mulsanne is a handcrafted masterpiece, blending bespoke craftsmanship with powerful performance. With its Twin-Turbo V8 and luxurious features, it offers a grand and exclusive motoring experience."
   },
   {
+    "id": 46,
+    "img": "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f8fcb51e-482b-45c9-ab80-d0b650a88ebc/00672053-d8ef-4b99-95b3-baa99445b78f.png",
     "brand": "Mercedes-Maybach",
     "model": "GLS 600",
     "type": "SUV",
@@ -736,8 +829,10 @@
     "description": "The 2023 Mercedes-Maybach GLS 600 is a luxury SUV that brings Maybach's elegance to the SUV segment. With its V8 Biturbo engine and lavish features, it offers a combination of performance and opulence for discerning drivers."
   },
   {
+    "id": 47,
+    "img": "https://d2ivfcfbdvj3sm.cloudfront.net/7fc965ab77efe6e0fa62e4ca1ea7673bb25f4158081e3d8e88cb10/stills_0640_png/MY2022/15093/15093_st0640_116.png",
     "brand": "BMW",
-    "model": "8 Series Gran Coupe",
+    "model": "8 Series",
     "type": "Coupe",
     "engine": "4.4L V8",
     "year": "2023",
@@ -752,6 +847,8 @@
     "description": "The 2023 BMW 8 Series Gran Coupe is a premium grand tourer with a Twin-Turbo V8 engine and a spacious interior. With its elegant design and advanced technology, it offers a luxurious driving experience for those who appreciate both performance and comfort."
   },
   {
+    "id": 48,
+    "img": "https://cdn-ds.com/media/websites/2886/content/amgTrims/2015-C-CLASS-C63-AMG-SEDAN-THEME-940x600.png",
     "brand": "Mercedes-AMG",
     "model": "C63 S",
     "type": "Sedan",
@@ -768,6 +865,8 @@
     "description": "The 2023 Mercedes-AMG C63 S is a high-performance sedan that offers a perfect blend of power and luxury. With its Twin-Turbo V8 engine and AMG enhancements, it delivers a thrilling driving experience in a sophisticated package."
   },
   {
+    "id": 49,
+    "img": "https://inv.assets.ansira.net/ChromeColorMatch/us/TRANSPARENT_cc_2023BMC640027_01_1280_C31.png",
     "brand": "BMW",
     "model": "M4 Competition",
     "type": "Coupe",
@@ -784,6 +883,8 @@
     "description": "The 2023 BMW M4 Competition is a sporty coupe that combines dynamic performance with modern technology. With its Twin-Turbo Inline-6 engine and M Performance enhancements, it delivers a thrilling driving experience with a touch of luxury."
   },
   {
+    "id": 50,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-S650-PULLMAN-MAYBACH-6272_7.jpg",
     "brand": "Maybach",
     "model": "S650 Pullman",
     "type": "Limousine",
@@ -798,5 +899,100 @@
     ],
     "price": "$610000",
     "description": "The 2023 Mercedes-Maybach S650 Pullman is an ultra-luxurious limousine designed for the most discerning clientele. With its V12 engine and opulent features, it provides an exclusive and indulgent travel experience with uncompromising comfort."
+  },
+  {
+    "id": 51,
+    "img": "https://s1.cdn.autoevolution.com/images/news/2005-ford-gt-supercar-with-9-miles-on-the-odometer-offered-for-sale-photo-gallery-100123_1.jpg",
+    "brand": "Ford",
+    "model": "GT",
+    "type": "Coupe",
+    "engine": "5.4L V8",
+    "year": "2006",
+    "transmission": "RWD",
+    "features": [
+      "Mid-Engine Layout",
+      "Heritage-inspired Design",
+      "Lightweight Aluminum Body",
+      "550 Horsepower",
+      "Active Aerodynamics"
+    ],
+    "price": "$300000",
+    "description": "The 2006 Ford GT is a modern interpretation of the legendary GT40. With its mid-engine layout and heritage-inspired design, it pays homage to Ford's racing history and is revered as a true American supercar."
+  },
+  {
+    "id": 52,
+    "img": "https://www.pinpng.com/pngs/m/376-3768588_hamann-bmw-m3-coupe-e92-bmw-m3-e92.png",
+    "brand": "BMW",
+    "model": "M3 E92",
+    "type": "Coupe",
+    "engine": "4.0L V8",
+    "year": "2007",
+    "transmission": "RWD",
+    "features": [
+      "High-Revving V8 Engine",
+      "M Double-Clutch Transmission",
+      "Carbon Fiber Roof",
+      "M Dynamic Mode",
+      "Distinctive M Design Elements"
+    ],
+    "price": "$35000",
+    "description": "The 2007 BMW M3 (E92) is a high-performance coupe known for its high-revving V8 engine and precision handling. It exemplifies the 'Ultimate Driving Machine' philosophy of BMW's M division."
+  },
+  {
+    "id": 53,
+    "img": "https://cdn.botb.com/media/39105/carousel15837.png",
+    "brand": "Nissan",
+    "model": "GT-R R34",
+    "type": "Coupe",
+    "engine": "2.6L I6",
+    "year": "1999-2002",
+    "transmission": "AWD",
+    "features": [
+      "Iconic Skyline Design",
+      "ATTESA E-TS Pro All-Wheel Drive",
+      "Super-HICAS Four-Wheel Steering",
+      "RB26DETT Engine",
+      "NISMO Performance Options"
+    ],
+    "price": "$100000",
+    "description": "The Nissan GT-R R34 is an iconic sports car that gained legendary status in the automotive world. Known for its distinctive Skyline design, powerful RB26DETT engine, and advanced all-wheel-drive system, it became a symbol of Japanese performance engineering."
+  },
+  {
+    "id": 54,
+    "img": "https://www.pngplay.com/wp-content/uploads/13/Volkswagen-Touareg-Transparent-Background.png",
+    "brand": "Volkswagen",
+    "model": "Touareg",
+    "type": "SUV",
+    "engine": "3.0L V6",
+    "year": "2010",
+    "transmission": "AWD",
+    "features": [
+      "Luxurious Interior",
+      "4MOTION All-Wheel Drive",
+      "Panoramic Sunroof",
+      "Touchscreen Infotainment",
+      "Adaptive Cruise Control"
+    ],
+    "price": "$25000",
+    "description": "The 2010 Volkswagen Touareg is a midsize luxury SUV known for its combination of comfort and off-road capability. With a luxurious interior, advanced safety features, and capable all-wheel drive, the Touareg offers a premium driving experience."
+  },
+  {
+    "id": 55,
+    "img": "https://w7.pngwing.com/pngs/570/924/png-transparent-2013-bmw-m5-car-bmw-1-series-bmw-x5-bmw-sedan-car-performance-car-thumbnail.png",
+    "brand": "BMW",
+    "model": "M5 F10",
+    "type": "Sedan",
+    "engine": "4.4L V8",
+    "year": "2011",
+    "transmission": "RWD",
+    "features": [
+      "M TwinPower Turbo Technology",
+      "7-Speed M Double-Clutch Transmission",
+      "M Dynamic Mode",
+      "Executive Package",
+      "Luxurious Interior"
+    ],
+    "price": "$60000",
+    "description": "The 2011 BMW M5 (F10) is a high-performance sedan that combines luxury with powerful Twin-Turbo V8 performance. With advanced technology and a luxurious interior, it represents the pinnacle of BMW's M series."
   }
 ]

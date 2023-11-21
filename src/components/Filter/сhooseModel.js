@@ -1,0 +1,22 @@
+export const brands = [
+  'Audi',
+  'Bentley',
+  'BMW',
+  'Ferrari',
+  'Ford',
+  'Jaguar',
+  'Lamborghini',
+  'Lexus',
+  'Maserati',
+  'Maybach',
+  'McLaren',
+  'Mercedes-AMG',
+  'Mercedes-Benz',
+  'Mercedes-Maybach',
+  'Nissan',
+  'Porsche',
+  'Range Rover',
+  'Rolls-Royce',
+  'Volkswagen',
+];
+

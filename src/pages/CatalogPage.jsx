@@ -1,11 +1,8 @@
 import React from 'react';
+import CatalogBody from 'components/CatalogBody/CatalogBody';
 
 function CatalogPage() {
-  return (
-    <div>
-      <p>Hi, its CatalogPage.jsx</p>
-    </div>
-  );
+  return <CatalogBody />;
 }
 
 export default CatalogPage;
