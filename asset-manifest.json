@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/coursework/static/css/main.7acaea2f.css",
-    "main.js": "/coursework/static/js/main.fc716e6a.js",
-    "static/js/836.037930da.chunk.js": "/coursework/static/js/836.037930da.chunk.js",
-    "static/js/69.74cdbcc1.chunk.js": "/coursework/static/js/69.74cdbcc1.chunk.js",
-    "static/js/173.aa74403e.chunk.js": "/coursework/static/js/173.aa74403e.chunk.js",
-    "static/js/306.d0eefd45.chunk.js": "/coursework/static/js/306.d0eefd45.chunk.js",
+    "main.js": "/coursework/static/js/main.7507b66b.js",
+    "static/js/836.b7d56089.chunk.js": "/coursework/static/js/836.b7d56089.chunk.js",
+    "static/js/550.f2739c98.chunk.js": "/coursework/static/js/550.f2739c98.chunk.js",
+    "static/js/173.d878aa72.chunk.js": "/coursework/static/js/173.d878aa72.chunk.js",
+    "static/js/306.657abaf9.chunk.js": "/coursework/static/js/306.657abaf9.chunk.js",
+    "static/js/241.560252ec.chunk.js": "/coursework/static/js/241.560252ec.chunk.js",
     "static/media/bmw-akrapovic.png": "/coursework/static/media/bmw-akrapovic.65dd6dc017773dc7734c.png",
     "static/media/Porsche911.png": "/coursework/static/media/Porsche911.91f35be9788a9d05a1b7.png",
     "static/media/bmw-f90.png": "/coursework/static/media/bmw-f90.7e87cce992805d6f8e7d.png",
@@ -18,14 +19,15 @@
     "static/media/icons.svg": "/coursework/static/media/icons.ed65dcbe5aff8d72f7c52f085a04b298.svg",
     "index.html": "/coursework/index.html",
     "main.7acaea2f.css.map": "/coursework/static/css/main.7acaea2f.css.map",
-    "main.fc716e6a.js.map": "/coursework/static/js/main.fc716e6a.js.map",
-    "836.037930da.chunk.js.map": "/coursework/static/js/836.037930da.chunk.js.map",
-    "69.74cdbcc1.chunk.js.map": "/coursework/static/js/69.74cdbcc1.chunk.js.map",
-    "173.aa74403e.chunk.js.map": "/coursework/static/js/173.aa74403e.chunk.js.map",
-    "306.d0eefd45.chunk.js.map": "/coursework/static/js/306.d0eefd45.chunk.js.map"
+    "main.7507b66b.js.map": "/coursework/static/js/main.7507b66b.js.map",
+    "836.b7d56089.chunk.js.map": "/coursework/static/js/836.b7d56089.chunk.js.map",
+    "550.f2739c98.chunk.js.map": "/coursework/static/js/550.f2739c98.chunk.js.map",
+    "173.d878aa72.chunk.js.map": "/coursework/static/js/173.d878aa72.chunk.js.map",
+    "306.657abaf9.chunk.js.map": "/coursework/static/js/306.657abaf9.chunk.js.map",
+    "241.560252ec.chunk.js.map": "/coursework/static/js/241.560252ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.fc716e6a.js"
+    "static/js/main.7507b66b.js"
   ]
 }
