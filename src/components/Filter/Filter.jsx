@@ -14,7 +14,7 @@ const Filter = ({
   changeFilter,
 }) => {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
-  const [searchParams, setSearchParams] = useSearchParams();
+  const [, setSearchParams] = useSearchParams();
 
   const dispatch = useDispatch();
 
