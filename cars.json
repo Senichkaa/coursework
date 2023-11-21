@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "img": "https://www.nicepng.com/png/detail/29-298110_new-2018-mercedes-benz-g-class-g-2018.png",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Mercedes-Benz_G_63_AMG_%28W_463%2C_3._Facelift%29_%E2%80%93_Frontansicht%2C_7._August_2012%2C_Stuttgart.jpg",
     "brand": "Mercedes-Benz",
     "model": "G-65",
     "type": "SUV",
@@ -10,7 +10,7 @@
     "transmission": "AWD",
     "features": [
       "Sunroof",
-      "Navigation System,",
+      "Navigation System",
       "Adaptive Cruise Control",
       "Climate Control"
     ],
@@ -19,7 +19,7 @@
   },
   {
     "id": 2,
-    "img": "https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_default/v1/editorial/Audi-RS6.png",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/AUDI-RS6-Avant-4857_1.jpg",
     "brand": "Audi",
     "model": "RS6 Avant",
     "type": "Wagon",
@@ -37,7 +37,7 @@
   },
   {
     "id": 3,
-    "img": "https://www.motortrend.com/uploads/sites/10/2020/02/2020-porsche-911-carrera-s-coupe-angular-front.png",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Carrera-S-6550_19.jpg",
     "brand": "Porsche",
     "model": "911 Carrera S Coupe",
     "type": "Coupe",
@@ -55,7 +55,7 @@
   },
   {
     "id": 4,
-    "img": "https://cdn.carbuzz.com/car-thumbnails/700x375/13000/500/13575.jpg",
+    "img": "https://img.mercedes-benz-kiev.com/data/news/273-mercedes-maybach-s-klasse-223-fahrtest-2021/mercedes-maybach-s-klasse-223-fahrtest-2021.jpg",
     "brand": "Mercedes-Maybach",
     "model": "S680",
     "type": "Sedan",
@@ -73,7 +73,7 @@
   },
   {
     "id": 5,
-    "img": "https://cdn.botb.com/media/1iofrppg/range-rover-velar-2023-botb-carousel.png",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/LAND-ROVER-Range-Rover-Velar-5939_46.jpg",
     "brand": "Range Rover",
     "model": "Velar",
     "type": "SUV",
@@ -91,7 +91,7 @@
   },
   {
     "id": 6,
-    "img": "https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_default/v1/editorial/vhs/Ferrari-Roma-index.png",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/FERRARI-Roma-6690_22.jpg",
     "brand": "Ferrari",
     "model": "Roma",
     "type": "Coupe",
@@ -109,7 +109,7 @@
   },
   {
     "id": 7,
-    "img": "https://www.bentleymotors.com/content/dam/bentley/Master/Models/derivative-strategy-/continental-gt/gt-s/24-my/config%2034%20Continental%20GT%20S%20cambrian%20grey%20850x479.png/_jcr_content/renditions/original.image_file.850.478.file/config%2034%20Continental%20GT%20S%20cambrian%20grey%20850x479.png",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/BENTLEY-Continental-GT-6094_12.jpg",
     "brand": "Bentley",
     "model": "Continental GT",
     "type": "Coupe",
@@ -127,7 +127,7 @@
   },
   {
     "id": 8,
-    "img": "https://www.pngitem.com/pimgs/m/628-6284397_transparent-lamborghini-urus-png-png-download.png",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/lamborghini-urus-s-2022-7389_19.jpg",
     "brand": "Lamborghini",
     "model": "Urus",
     "type": "SUV",
@@ -145,7 +145,7 @@
   },
   {
     "id": 9,
-    "img": "https://www.supersprint.com/public/img/01-279708.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/BMW-M5--F90--6086_13.jpg",
     "brand": "BMW",
     "model": "M5 F90",
     "type": "Sedan",
@@ -163,7 +163,7 @@
   },
   {
     "id": 10,
-    "img": "https://imgcdn.zigwheels.ae/large/gallery/color/34/372/rolls-royce-phantom-color-533221.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/ROLLS-ROYCE-Phantom-6073_12.jpg",
     "brand": "Rolls-Royce",
     "model": "Phantom",
     "type": "Sedan",
@@ -181,7 +181,7 @@
   },
   {
     "id": 11,
-    "img": "https://rightrent24.ru/upload/iblock/ae4/lexus-lx-570-l.webp",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/LEXUS-LX-5652_54.jpg",
     "brand": "Lexus",
     "model": "LX",
     "type": "SUV",
@@ -199,7 +199,7 @@
   },
   {
     "id": 12,
-    "img": "https://i.pinimg.com/736x/e7/bf/c0/e7bfc09ff3a2cdbdeb031f202e9f9880.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-S-Class-5992_12.jpg",
     "brand": "Mercedes-Benz",
     "model": "S-Class",
     "type": "Sedan",
@@ -217,7 +217,7 @@
   },
   {
     "id": 13,
-    "img": "https://img.freepik.com/premium-photo/car-isolated-white-background-jaguar-xj-white-car-blank-clean-white-background-white-black_655090-607346.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/JAGUAR-XJR575-6064_9.jpg",
     "brand": "Jaguar",
     "model": "XJ",
     "type": "Sedan",
@@ -235,7 +235,7 @@
   },
   {
     "id": 14,
-    "img": "https://img.freepik.com/premium-photo/car-isolated-white-background-porsche-panamera-white-car-blank-clean-white-bac-white-black_655090-606899.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Panamera-GTS--971--6924_5.jpg",
     "brand": "Porsche",
     "model": "Panamera",
     "type": "Sedan",
@@ -253,7 +253,7 @@
   },
   {
     "id": 15,
-    "img": "https://ik.imagekit.io/parkplus/production/chariot_staging/public/silverfloretsilvermetallicjpgimage_20230808184337514815.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/AUDI-RS-Q8-6702_16.jpg",
     "brand": "Audi",
     "model": "RS Q8",
     "type": "SUV",
@@ -272,9 +272,9 @@
   },
   {
     "id": 16,
-    "img": "https://stimg.cardekho.com/images/car-images/large/Porsche/Porsche-911/776/Night-Blue-Metallic_586b7a.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-911-Turbo-S--992--6785_9.jpg",
     "brand": "Porsche",
-    "model": "911",
+    "model": "911 Turbo S",
     "type": "Coupe",
     "engine": "3.8L H6",
     "year": "2020",
@@ -286,11 +286,11 @@
       "Interior Ambient Lighting"
     ],
     "price": "$110000",
-    "description": "The 2020 Porsche 911 is an iconic sports car, combining precision engineering with timeless design, delivering an exhilarating driving experience."
+    "description": "The 2020 Porsche 911 Turbo S is an iconic sports car, combining precision engineering with timeless design, delivering an exhilarating driving experience."
   },
   {
     "id": 17,
-    "img": "https://cdn.motor1.com/images/mgl/0BEB3/s1/2020-bmw-7-series-facelift-leaked-official-image.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/BMW-7-Series-6482_36.jpg",
     "brand": "BMW",
     "model": "7 Series",
     "type": "Sedan",
@@ -308,7 +308,7 @@
   },
   {
     "id": 18,
-    "img": "https://crdms.images.consumerreports.org/c_lfill,w_720,q_auto,f_auto/prod/cars/chrome/white/2022LEC360001_1280_01",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/LEXUS-LS-5889_44.jpg",
     "brand": "Lexus",
     "model": "LS",
     "type": "Sedan",
@@ -326,7 +326,7 @@
   },
   {
     "id": 19,
-    "img": "https://wallpapercave.com/wp/wp7964451.jpg  ",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/AUDI-A8-6060_53.jpg",
     "brand": "Audi",
     "model": "A8",
     "type": "Sedan",
@@ -344,7 +344,7 @@
   },
   {
     "id": 20,
-    "img": "https://img.freepik.com/premium-photo/car-isolated-white-background-jaguar-ftype-white-car-blank-clean-white-backgr-white-black_655090-607262.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/JAGUAR-F-Type-Coupe-6710_12.jpg",
     "brand": "Jaguar",
     "model": "F-Type",
     "type": "Coupe",
@@ -362,7 +362,7 @@
   },
   {
     "id": 21,
-    "img": "https://c4.wallpaperflare.com/wallpaper/47/82/364/maserati-quattroporte-white-background-maserati-wallpaper-preview.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/MASERATI-Quattroporte-5701_8.jpg",
     "brand": "Maserati",
     "model": "Quattroporte",
     "type": "Sedan",
@@ -380,7 +380,7 @@
   },
   {
     "id": 22,
-    "img": "https://images.dealer.com/ddc/vehicles/2022/Rolls-Royce/Ghost/Sedan/color/Anthracite-BK05-51,46,45-640-en_US.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/rolls-royce-ghost-2020-6918_20.jpg",
     "brand": "Rolls-Royce",
     "model": "Ghost",
     "type": "Sedan",
@@ -398,7 +398,7 @@
   },
   {
     "id": 23,
-    "img": "https://imgcdn.oto.com/large/gallery/color/10/1985/ferrari-488-gtb-color-384642.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/FERRARI-488-GTB-5428_13.jpg",
     "brand": "Ferrari",
     "model": "488 GTB",
     "type": "Coupe",
@@ -416,7 +416,7 @@
   },
   {
     "id": 24,
-    "img": "https://www.pngitem.com/pimgs/m/628-6284307_lamborghini-huracan-lp610-4-hd-png-download.png",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/LAMBORGHINI-Huracan-Performante-5944_6.jpg",
     "brand": "Lamborghini",
     "model": "Huracan",
     "type": "Coupe",
@@ -434,7 +434,7 @@
   },
   {
     "id": 25,
-    "img": "https://img.freepik.com/premium-photo/car-isolated-white-background-mclaren-720s-white-car-blank-clean-white-backgro-white-black_655090-717596.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/MCLAREN-720S-5952_9.jpg",
     "brand": "McLaren",
     "model": "720S",
     "type": "Coupe",
@@ -452,7 +452,7 @@
   },
   {
     "id": 26,
-    "img": "https://www.biesheuvel.nl/media/catalog/product/cache/c50b20d530e1faaa74d43d6ce8311432/r/e/resizeimage50-99b2_1.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/BMWM5-61_14.jpg",
     "brand": "BMW",
     "model": "M5 E60",
     "type": "Sedan",
@@ -470,7 +470,7 @@
   },
   {
     "id": 27,
-    "img": "https://img.freepik.com/premium-photo/car-isolated-white-background-porsche-911-gt3-rs-white-car-blank-clean-white-b-white-black_655090-606762.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/porsche-911-gt3-rs-2022-7296_18.jpg",
     "brand": "Porsche",
     "model": "911 GT3 RS",
     "type": "Coupe",
@@ -488,7 +488,7 @@
   },
   {
     "id": 28,
-    "img": "https://hips.hearstapps.com/hmg-prod/images/2016-ferrari-laferrari-0-1634494901.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/FERRARILaFerrari-4797_10.jpg",
     "brand": "Ferrari",
     "model": "LaFerrari",
     "type": "Coupe",
@@ -506,7 +506,7 @@
   },
   {
     "id": 29,
-    "img": "https://media.sketchfab.com/models/3e4823c5cf924a51926aacf0261f5931/thumbnails/fca6d22cd9c54abc9813f3ff31ce7bb3/6dfe85f601de4d2d8a312ebd26715e24.jpeg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/LAMBORGHINI-Aventador-SVJ-6434_3.jpeg",
     "brand": "Lamborghini",
     "model": "Aventador SVJ",
     "type": "Coupe",
@@ -524,7 +524,7 @@
   },
   {
     "id": 30,
-    "img": "https://img.freepik.com/premium-photo/car-isolated-white-background-mercedesamg-gt-white-car-blank-clean-white-back-white-black_655090-717702.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/Mercedes-AMG-GT-R--C-190--6456_5.jpg",
     "brand": "Mercedes-AMG",
     "model": "GT R",
     "type": "Coupe",
@@ -542,7 +542,7 @@
   },
   {
     "id": 31,
-    "img": "https://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIiBOTrayfuvpGh6-m1zJgaGigIGBgZGoDhTtNOaz-I_2DhCHkCFmXgZWMpTkwoYgSrcmLgycxPTU_VBArz____nZ-QustBNrSjRzUvNzWcHKhHgiZsfe9Uw6_id7Q-9vswPcnnBfueZOAPP3grF3yxxFgI3n5y43Pn3pGz6dQtBBp59fAsPOYl-uWR4gufeu5us74Jn1P5l4LltMn-3SA177CFbrq5_kb0MtW8_HWPgETl4fvrX-79uv39rNs_JalaDlKXfIgYehXNVKhpmE0_nKuaW_DNR9ru14HcBA0_cB6GPmvNEj3uvOryeM5MnuEbwFQ8DD7v4zPtCT0ymznh0atEUX_fuO_YbPRh4jPbH_LWPWLZnCnf8-Zf7DTy6qo9tYuDZ5BFlEuYldPHp673FbfO7Xy5ivN3AwOMkJuH46LT9rwMK8W_Te-u9Z6X_TGPgqTwu-VmLWW4_O-93g-e72xenFWpmMfD87b65bEZKN5Pmwj2S3CzsunJ3-02Bvoj8r609ceu1szyzd7T7K_6rZJZhZOAJYl9WELzake_-lreTGdJ2TrZjtSpn4HmlqKobv7xXdLKfcsmdVqb9hfzdHgyswIhg2g0kWKKABM8TIMFhwwAmQVEUAyQYG0B81iXMDAzcDgwMbCEMIMAnXFqUU5BYlJirV5RaXJCfV5xZliqoYUAkEGb1cYx0DQIAXi6eGUACAAA?mimetype=image/png",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/audi-r8-v10-performance-rwd-spyder-2021-7219_27.jpg",
     "brand": "Audi",
     "model": "R8 Spyder",
     "type": "Convertible",
@@ -560,7 +560,7 @@
   },
   {
     "id": 32,
-    "img": "https://www.kindpng.com/picc/m/202-2028400_nissan-gt-r-nismo-pixel-nissan-gtr-nismo.png",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/nissan-gt-r-nismo-2023-7366_9.jpg",
     "brand": "Nissan",
     "model": "GT-R Nismo",
     "type": "Coupe",
@@ -578,7 +578,7 @@
   },
   {
     "id": 33,
-    "img": "https://img.freepik.com/premium-photo/car-isolated-white-background-mclaren-720s-white-car-blank-clean-white-backgro-white-black_655090-717587.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/MCLAREN-P1-4777_22.jpg",
     "brand": "Mclaren",
     "model": "P1",
     "type": "Coupe",
@@ -596,7 +596,7 @@
   },
   {
     "id": 34,
-    "img": "https://ymimg1.b8cdn.com/uploads/car_model/9831/pictures/11055360/2022_Audi_RS7_Exterior_01.png",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/audi-rs7-sportback-performance-2022-7350_48.jpg",
     "brand": "Audi",
     "model": "RS7",
     "type": "Sedan",
@@ -614,7 +614,7 @@
   },
   {
     "id": 35,
-    "img": "https://cdn.jdpower.com/Models/640x480/2020-Lexus-GSF-Base.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/LEXUS-GS-F-5365_31.jpg",
     "brand": "Lexus",
     "model": "GS F",
     "type": "Sedan",
@@ -632,7 +632,7 @@
   },
   {
     "id": 36,
-    "img": "https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_default/v1/editorial/vhs/Mercedes-AMG-E63.png",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-E-63-AMG--W213--5805_20.jpg",
     "brand": "Mercedes-Benz",
     "model": "E63s",
     "type": "Sedan",
@@ -650,7 +650,7 @@
   },
   {
     "id": 37,
-    "img": "https://vehicle-images.dealerinspire.com/stock-images/lexus/00c3e2a9d8003850145017e79944fb05.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/LEXUS-LS-5889_29.jpg",
     "brand": "Lexus",
     "model": "LS 500h",
     "type": "Sedan",
@@ -668,7 +668,7 @@
   },
   {
     "id": 38,
-    "img": "https://images.dealer.com/ddc/vehicles/2022/Rolls-Royce/Cullinan/SUV/color/Black%20Kirsch-R19-1,1,1-640-en_US.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/ROLLS-ROYCE-Cullinan-6356_14.jpg",
     "brand": "Rolls-Royce",
     "model": "Cullinan",
     "type": "SUV",
@@ -686,7 +686,7 @@
   },
   {
     "id": 39,
-    "img": "https://w0.peakpx.com/wallpaper/410/876/HD-wallpaper-range-rover-svautobiography-lwb-suvs-2020-cars-anthony-joshua-car-luxury-cars-2020-range-rover-svautobiography-range-rover.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/LAND-ROVER-Range-Rover-4664_60.jpg",
     "brand": "Range Rover",
     "model": "SVAutobiography Dynamic",
     "type": "SUV",
@@ -704,7 +704,7 @@
   },
   {
     "id": 40,
-    "img": "https://edgecast-img.yahoo.net/mysterio/api/845BC851D9FE4FB93B65577729C56B279F165EB217CEFDEB271CAAFC190A3503/autoblog/resizefill_w660_h372;quality_80;format_webp;cc_31536000;/https://s.aolcdn.com/commerce/autodata/images/USC60PRS011D021001.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/PORSCHE-Cayenne-Turbo-S-E-Hybrid-6643_3.jpg",
     "brand": "Porsche",
     "model": "Cayenne Turbo S E-Hybrid",
     "type": "SUV",
@@ -722,7 +722,7 @@
   },
   {
     "id": 41,
-    "img": "https://edgecast-img.yahoo.net/mysterio/api/68E80AFF56E553073867FF5CA8481737E9B7F9E61AC5D25F3BFF04BCD727125D/autoblog/resizefill_w660_h372;quality_80;format_webp;cc_31536000;/https://s.aolcdn.com/commerce/autodata/images/CAD20MBSA01A021001.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/mercedes-amg-gle-63-4matic-coupe-2021-7094_11.jpg",
     "brand": "Mercedes-AMG",
     "model": "GLE 63 S",
     "type": "SUV",
@@ -740,7 +740,7 @@
   },
   {
     "id": 42,
-    "img": "https://edgecast-img.yahoo.net/mysterio/api/BFDD45ADB819F985225C12F02CC545F9AED69F378D84FA580F9C57000185233C/autoblog/resizefill_w788_h525;quality_80;format_webp;cc_31536000;/https://s.aolcdn.com/commerce/autodata/images/USC70BES011A021001.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/BENTLEY-Bentayga-6869_18.jpg",
     "brand": "Bentley",
     "model": "Bentayga",
     "type": "SUV",
@@ -758,7 +758,7 @@
   },
   {
     "id": 43,
-    "img": "https://www.rollsroycelongisland.com/imagetag/3087/main/l/New-2022-Bentley-Flying-Spur-Hybrid-Hybrid-1647552108.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/bentley-flying-spur-2019-6597_58.jpg",
     "brand": "Bentley",
     "model": "Flying Spur",
     "type": "Sedan",
@@ -776,7 +776,7 @@
   },
   {
     "id": 44,
-    "img": "https://images.drive.com.au/caradvice/image/private/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/gbi1yatxhdum0n6jaemo",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/LEXUS-LC-500-Convertible-6708_10.jpg",
     "brand": "Lexus",
     "model": "LC 500 Convertible",
     "type": "Convertible",
@@ -794,7 +794,7 @@
   },
   {
     "id": 45,
-    "img": "https://i.pinimg.com/736x/03/b8/c6/03b8c63a6d1eaaccc70637d847f523fa.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/BENTLEY-Mulsanne-5897_24.jpg",
     "brand": "Bentley",
     "model": "Mulsanne",
     "type": "Sedan",
@@ -812,7 +812,7 @@
   },
   {
     "id": 46,
-    "img": "https://images.dealer.com/ddc/vehicles/2023/Mercedes-Benz/Maybach%20GLS%20600/SUV/still/front-left/front-left-640-en_US.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-GLS-600-Maybach-6701_26.jpg",
     "brand": "Mercedes-Maybach",
     "model": "GLS 600",
     "type": "SUV",
@@ -830,7 +830,7 @@
   },
   {
     "id": 47,
-    "img": "https://ymimg1.b8cdn.com/resized/car_model/9568/pictures/11050601/mobile_listing_main_2019_BMW_8_Series_Coupe.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/bmw-m8-coupe-2022-7230_9.jpg",
     "brand": "BMW",
     "model": "8 Series",
     "type": "Coupe",
@@ -848,7 +848,7 @@
   },
   {
     "id": 48,
-    "img": "https://www.gts-models.com/wp-content/uploads/2018/07/mercedes-amg-c-63-s-berline-01.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/mercedes-amg-c63-s-amg-e-performance-2022-7310_6.jpg",
     "brand": "Mercedes-AMG",
     "model": "C63 S",
     "type": "Sedan",
@@ -866,7 +866,7 @@
   },
   {
     "id": 49,
-    "img": "https://vehicle-images.dealerinspire.com/78d1-110008051/WBS43AZ09RCP50793/24a957fbe3f6717953cf403370a7ec12.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/bmw-m4-csl-2022-7388_77.jpg",
     "brand": "BMW",
     "model": "M4 Competition",
     "type": "Coupe",
@@ -884,7 +884,7 @@
   },
   {
     "id": 50,
-    "img": "https://3dzip.org/wp-content/uploads/2019/10/3d-Model-Mercedes-Benz-S650-Pullman-Maybach-Free-Download-by-Long-Rbk-1.jpg",
+    "img": "https://preview.free3d.com/img/2018/04/2397297143082649002/e1hqd9jd.jpg",
     "brand": "Maybach",
     "model": "S650 Pullman",
     "type": "Limousine",
@@ -902,12 +902,12 @@
   },
   {
     "id": 51,
-    "img": "https://s1.cdn.autoevolution.com/images/news/2005-ford-gt-supercar-with-9-miles-on-the-odometer-offered-for-sale-photo-gallery-100123_1.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/FORD-GT-5662_21.jpg",
     "brand": "Ford",
     "model": "GT",
     "type": "Coupe",
     "engine": "5.4L V8",
-    "year": "2006",
+    "year": "2017",
     "transmission": "RWD",
     "features": [
       "Mid-Engine Layout",
@@ -917,11 +917,11 @@
       "Active Aerodynamics"
     ],
     "price": "$300000",
-    "description": "The 2006 Ford GT is a modern interpretation of the legendary GT40. With its mid-engine layout and heritage-inspired design, it pays homage to Ford's racing history and is revered as a true American supercar."
+    "description": "The 2017 Ford GT is a modern interpretation of the legendary GT40. With its mid-engine layout and heritage-inspired design, it pays homage to Ford's racing history and is revered as a true American supercar."
   },
   {
     "id": 52,
-    "img": "https://wallpapercave.com/wp/CCqOl7o.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/BMW-M3-Coupe--E92--LCI-4897_16.jpg",
     "brand": "BMW",
     "model": "M3 E92",
     "type": "Coupe",
@@ -940,7 +940,7 @@
   },
   {
     "id": 53,
-    "img": "https://www.nissan-global.com/EN/HERITAGE/img/modelDetail/280/low.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/NISSAN-Skyline-GT-R-V-Spec--R34--4041_13.jpg",
     "brand": "Nissan",
     "model": "GT-R R34",
     "type": "Coupe",
@@ -959,12 +959,12 @@
   },
   {
     "id": 54,
-    "img": "https://i.pinimg.com/736x/91/01/78/910178ee4a4ebaa4de63c0416bd7c35e.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/VOLKSWAGEN-Touareg-5281_5.jpg",
     "brand": "Volkswagen",
     "model": "Touareg",
     "type": "SUV",
     "engine": "3.0L V6",
-    "year": "2020",
+    "year": "2021",
     "transmission": "AWD",
     "features": [
       "Luxurious Interior",
@@ -974,11 +974,11 @@
       "Adaptive Cruise Control"
     ],
     "price": "$25000",
-    "description": "The 2010 Volkswagen Touareg is a midsize luxury SUV known for its combination of comfort and off-road capability. With a luxurious interior, advanced safety features, and capable all-wheel drive, the Touareg offers a premium driving experience."
+    "description": "The 2021 Volkswagen Touareg is a midsize luxury SUV known for its combination of comfort and off-road capability. With a luxurious interior, advanced safety features, and capable all-wheel drive, the Touareg offers a premium driving experience."
   },
   {
     "id": 55,
-    "img": "https://c4.wallpaperflare.com/wallpaper/530/94/458/f10-bmw-m5-cars-hamann-wallpaper-preview.jpg",
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/BMW-M5--F10--LCI-5290_13.jpg",
     "brand": "BMW",
     "model": "M5 F10",
     "type": "Sedan",
