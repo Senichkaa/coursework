@@ -18,5 +18,8 @@ export const brands = [
   'Range Rover',
   'Rolls-Royce',
   'Volkswagen',
+  'Aston Martin',
+  'Bugatti',
+  'Cadillac',
+  'Infiniti',
 ];
-

@@ -4,6 +4,20 @@ import { useDispatch } from 'react-redux';
 import { useSearchParams } from 'react-router-dom';
 import { brands } from './сhooseModel';
 import { TfiAngleDoubleDown, TfiAngleDoubleUp } from 'react-icons/tfi';
+import {
+  FilterSection,
+  FilterBlock,
+  FilterInput,
+  FilterButton,
+  Label,
+  Input,
+  BrandsDropdown,
+  BrandsUl,
+  BrandsLi,
+  FilterSubmitButton,
+  FilterResetButton,
+  ButtonsSubmit,
+} from './Filter.styled';
 
 const Filter = ({
   cars,
@@ -78,49 +92,52 @@ const Filter = ({
   };
 
   return (
-    <section>
-      <div>
-        <div>
-          <label htmlFor="modelTitle">Brands</label>
-          <input
+    <FilterSection>
+      <FilterBlock>
+        <FilterInput>
+          <Label htmlFor="modelTitle">Vehicle Brands</Label>
+          <Input
             id="modelTitle"
             readOnly
-            placeholder="Choose brand"
+            placeholder="Select a brand"
             value={selectedBrand}
           />
-        </div>
-        <button type="button" onClick={() => switchDropdown('brand')}>
-          {isDropdownOpen === 'brand' ? (
-            <TfiAngleDoubleUp />
-          ) : (
-            <TfiAngleDoubleDown />
-          )}
-        </button>
+
+          <FilterButton type="button" onClick={() => switchDropdown('brand')}>
+            {isDropdownOpen === 'brand' ? (
+              <TfiAngleDoubleUp />
+            ) : (
+              <TfiAngleDoubleDown />
+            )}
+          </FilterButton>
+        </FilterInput>
         {isDropdownOpen === 'brand' && (
-          <div>
-            <ul>
+          <BrandsDropdown>
+            <BrandsUl>
               {brands.map((option, index) => (
-                <li
+                <BrandsLi
                   key={index}
                   className={filter && filter.brand === option ? 'active' : ''}
                   onClick={() => selectHandle(option)}
                 >
                   {option}
-                </li>
+                </BrandsLi>
               ))}
-            </ul>
-          </div>
+            </BrandsUl>
+          </BrandsDropdown>
         )}
-        <button type="button" onClick={searchHandle}>
-          Search
-        </button>
-        {isFiltered && (
-          <button type="button" onClick={resetHandle}>
-            Reset
-          </button>
-        )}
-      </div>
-    </section>
+        <ButtonsSubmit>
+          <FilterSubmitButton type="button" onClick={searchHandle}>
+            Search
+          </FilterSubmitButton>
+          {isFiltered && (
+            <FilterResetButton type="button" onClick={resetHandle}>
+              Reset Selection
+            </FilterResetButton>
+          )}
+        </ButtonsSubmit>
+      </FilterBlock>
+    </FilterSection>
   );
 };
 

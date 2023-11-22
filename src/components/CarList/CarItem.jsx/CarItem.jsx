@@ -2,6 +2,7 @@ import React from 'react';
 import {
   Item,
   CardTextWrapper,
+  ImageWrapper,
   CardTitle,
   CardImage,
   CardTitleSpan,
@@ -17,7 +18,9 @@ function CarItem({ car }) {
 
   return (
     <Item key={id}>
-      <CardImage src={img} alt={`${brand} ${model} ${year}`} />
+      <ImageWrapper>
+        <CardImage src={img} alt={`${brand} ${model} ${year}`} />
+      </ImageWrapper>
       <CardTextWrapper>
         <CardTitle>
           {brand}&nbsp;{model} <CardTitleSpan>,</CardTitleSpan> {year}

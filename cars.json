@@ -51,7 +51,7 @@
       "Driver&Passenger Airbag"
     ],
     "price": "$103000",
-    "description": "Porsche 911 Carrera S Coupe is sculpted for speed, crafted for luxury. A driving experience like no other."
+    "description": "Porsche 911 Carrera S Coupe is sculpted for speed, crafted for luxury."
   },
   {
     "id": 4,
@@ -69,7 +69,7 @@
       "4-Seat Cabin Configuration"
     ],
     "price": "$229000",
-    "description": "Experience grandeur on wheels with the Mercedes-Maybach S 680 4MATIC. Unrivaled luxury meets cutting-edge technology."
+    "description": "Experience grandeur on wheels with the Mercedes-Maybach S 680 4MATIC."
   },
   {
     "id": 5,
@@ -105,7 +105,7 @@
       "Carbon Fiber Elements"
     ],
     "price": "$248500",
-    "description": "Ferrari Roma - La Nuova Dolce Vita!"
+    "description": "The Fabulous Ferrari Roma - La Nuova Dolce Vita! Live like a King!"
   },
   {
     "id": 7,
@@ -141,7 +141,7 @@
       "Daytime Running Lights"
     ],
     "price": "$222000",
-    "description": "Lamborghini Urus: More than an SUV, it's a statement. A fusion of power, prestige, and the unmistakable allure of Italian design."
+    "description": "Lamborghini Urus: More than an SUV, it's a statement."
   },
   {
     "id": 9,
@@ -177,7 +177,7 @@
       "Starlight Headliner"
     ],
     "price": "$500000",
-    "description": "The Rolls-Royce Phantom epitomizes unparalleled luxury and craftsmanship, offering a serene and opulent driving experience."
+    "description": "The Rolls-Royce Phantom epitomizes unparalleled luxury and craftsmanship."
   },
   {
     "id": 11,
@@ -213,7 +213,7 @@
       "Executive Rear Seat Package"
     ],
     "price": "$120000",
-    "description": "The 2019 Mercedes-Benz S-Class sets new benchmarks in luxury and technology, offering a plush ride and cutting-edge features."
+    "description": "The 2019 Mercedes-Benz S-Class sets new benchmarks in luxury and technology."
   },
   {
     "id": 13,
@@ -231,7 +231,7 @@
       "InControl Touch Pro Duo Infotainment"
     ],
     "price": "$80000",
-    "description": "The 2018 Jaguar XJ combines elegant design with powerful performance, offering a luxurious and exhilarating driving experience."
+    "description": "The 2018 Jaguar XJ combines elegant design with powerful performance."
   },
   {
     "id": 14,
@@ -249,7 +249,7 @@
       "21-inch Panamera Exclusive Design Wheels"
     ],
     "price": "$110000",
-    "description": "The 2022 Porsche Panamera redefines sporty elegance in the luxury sedan segment, offering a thrilling driving experience and exquisite craftsmanship."
+    "description": "The 2022 Porsche Panamera redefines sporty elegance in the luxury sedan segment."
   },
   {
     "id": 15,
@@ -268,7 +268,7 @@
       "Audi Drive Select with RS Modes"
     ],
     "price": "$130000",
-    "description": "The 2022 Audi RS Q8 combines the practicality of an SUV with the heart-pounding performance of an RS model. With its powerful V8 engine, advanced suspension, and luxurious features, the RS Q8 delivers an exhilarating driving experience."
+    "description": "The 2022 Audi RS Q8 combines the practicality of an SUV with the heart-pounding performance of an RS model."
   },
   {
     "id": 16,
@@ -286,7 +286,7 @@
       "Interior Ambient Lighting"
     ],
     "price": "$110000",
-    "description": "The 2020 Porsche 911 Turbo S is an iconic sports car, combining precision engineering with timeless design, delivering an exhilarating driving experience."
+    "description": "The 2020 Porsche 911 Turbo S is an iconic sports car, combining precision engineering with timeless design."
   },
   {
     "id": 17,
@@ -304,7 +304,7 @@
       "Panoramic Sky Lounge LED Roof"
     ],
     "price": "$100000",
-    "description": "The 2019 BMW 7 Series epitomizes luxury and performance, offering a seamless blend of advanced technology and opulent comfort."
+    "description": "The 2019 BMW 7 Series epitomizes luxury and performance."
   },
   {
     "id": 18,
@@ -322,7 +322,7 @@
       "Intuitive Parking Assist"
     ],
     "price": "$90000",
-    "description": "The 2015 Lexus LS offers a blend of opulence and performance, with a refined interior and advanced technology, providing a luxurious driving experience."
+    "description": "The 2015 Lexus LS offers a blend of opulence and performance, with a refined interior and advanced technology."
   },
   {
     "id": 19,
@@ -340,7 +340,7 @@
       "Matrix LED Headlights"
     ],
     "price": "$95000",
-    "description": "The 2018 Audi A8 exemplifies elegance and innovation, featuring cutting-edge technology and a luxurious interior for a sophisticated driving experience."
+    "description": "The 2018 Audi A8 exemplifies elegance and innovation, featuring cutting-edge technology and a luxurious interior."
   },
   {
     "id": 20,
@@ -358,7 +358,7 @@
       "Interactive Driver Display"
     ],
     "price": "$100000",
-    "description": "The 2021 Jaguar F-Type combines breathtaking performance with a luxurious interior, making it an icon of modern sports car design."
+    "description": "The 2021 Jaguar F-Type combines breathtaking performance with a luxurious interior."
   },
   {
     "id": 21,
@@ -376,7 +376,7 @@
       "Soft-Close Doors"
     ],
     "price": "$110000",
-    "description": "The 2019 Maserati Quattroporte combines Italian elegance with exhilarating performance, offering a luxurious and powerful driving experience."
+    "description": "The 2019 Maserati Quattroporte combines Italian elegance with exhilarating performance."
   },
   {
     "id": 22,
@@ -394,7 +394,7 @@
       "Rear Theatre Configuration"
     ],
     "price": "$350000",
-    "description": "The 2023 Rolls-Royce Ghost represents the pinnacle of luxury motoring, with bespoke features and unparalleled craftsmanship, providing a serene and luxurious driving experience."
+    "description": "The 2023 Rolls-Royce Ghost represents the pinnacle of luxury motoring, with bespoke features and unparalleled craftsmanship."
   },
   {
     "id": 23,
@@ -412,7 +412,7 @@
       "Scuderia Ferrari Shields"
     ],
     "price": "$300000",
-    "description": "The 2017 Ferrari 488 GTB is a true icon of Italian performance, featuring a powerful V8 engine and aerodynamic design, delivering an exhilarating and stylish driving experience."
+    "description": "The 2017 Ferrari 488 GTB is a true icon of Italian performance, featuring a powerful V8 engine and aerodynamic design."
   },
   {
     "id": 24,
@@ -430,7 +430,7 @@
       "Dynamic Steering"
     ],
     "price": "$280000",
-    "description": "The 2021 Lamborghini Huracan is a masterpiece of Italian engineering and design, offering blistering performance and a striking appearance for an unforgettable driving experience."
+    "description": "The 2021 Lamborghini Huracan is a masterpiece of Italian engineering and design."
   },
   {
     "id": 25,
@@ -448,7 +448,7 @@
       "360-Degree Park Assist"
     ],
     "price": "$300000",
-    "description": "The 2020 McLaren 720S is a cutting-edge supercar, featuring advanced aerodynamics and a potent V8 engine, delivering a thrilling and high-performance driving experience."
+    "description": "The 2020 McLaren 720S is a cutting-edge supercar, featuring advanced aerodynamics and a potent V8 engine."
   },
   {
     "id": 26,
@@ -466,7 +466,7 @@
       "Head-Up Display"
     ],
     "price": "$83000",
-    "description": "The 2008 BMW M5 E60 is a legendary high-performance sedan, featuring a high-revving V10 engine and a perfect blend of luxury and sportiness. With its iconic design and exhilarating driving dynamics, the M5 E60 remains a true enthusiast's choice."
+    "description": "The 2008 BMW M5 E60 is a legendary high-performance sedan, featuring a high-revving V10 engine and a perfect blend of luxury and sportiness."
   },
   {
     "id": 27,
@@ -484,7 +484,7 @@
       "Porsche Track Precision App"
     ],
     "price": "$210000",
-    "description": "The 2019 Porsche 911 GT3 RS (991.2) is a pinnacle of track-focused performance, with a high-revving naturally aspirated engine, aerodynamic enhancements, and a luxurious interior. It embodies the perfect balance between precision engineering and driving passion."
+    "description": "The 2019 Porsche 911 GT3 RS (991.2) is a pinnacle of track-focused performance, with a high-revving naturally aspirated engine, aerodynamic enhancements, and a luxurious interior."
   },
   {
     "id": 28,
@@ -502,7 +502,7 @@
       "Scuderia Ferrari Shields"
     ],
     "price": "$3130000",
-    "description": "The 2016 Ferrari LaFerrari is an extraordinary hypercar, combining a V12 engine with hybrid technology for unparalleled performance. Its striking design and advanced features make it a symbol of automotive excellence."
+    "description": "The 2016 Ferrari LaFerrari is an extraordinary hypercar, combining a V12 engine with hybrid technology for unparalleled performance."
   },
   {
     "id": 29,
@@ -520,7 +520,7 @@
       "Magneto-Rheological Suspension"
     ],
     "price": "$610000",
-    "description": "The 2020 Lamborghini Aventador SVJ is a pinnacle of performance and aerodynamics, featuring a powerful V12 engine and cutting-edge technology. Its aggressive styling and track-focused capabilities make it a true icon."
+    "description": "The 2020 Lamborghini Aventador SVJ is a pinnacle of performance and aerodynamics, featuring a powerful V12 engine and cutting-edge technology."
   },
   {
     "id": 30,
@@ -538,7 +538,7 @@
       "Track Pace App"
     ],
     "price": "$180000",
-    "description": "The 2018 Mercedes-AMG GT R is a high-performance sports car, known for its menacing appearance and thrilling driving dynamics. With advanced technology and AMG craftsmanship, it's a true driving enthusiast's dream."
+    "description": "The 2018 Mercedes-AMG GT R is a high-performance sports car, known for its menacing appearance and thrilling driving dynamics."
   },
   {
     "id": 31,
@@ -556,7 +556,7 @@
       "Audi Smartphone Interface"
     ],
     "price": "$198000",
-    "description": "The 2021 Audi R8 Spyder is a convertible supercar, blending the thrill of open-top driving with the power of a V10 engine. Its striking design and advanced technology make it a standout in the premium sports car segment."
+    "description": "The 2021 Audi R8 Spyder is a convertible supercar, blending the thrill of open-top driving with the power of a V10 engine."
   },
   {
     "id": 32,
@@ -574,7 +574,7 @@
       "Carbon Fiber Rear Spoiler"
     ],
     "price": "$218000",
-    "description": "The 2020 Nissan GT-R Nismo is a high-performance legend, featuring advanced aerodynamics and a powerful V6 engine. Its racing-inspired design and cutting-edge technology make it a formidable presence on and off the track."
+    "description": "The 2020 Nissan GT-R Nismo is a high-performance legend, featuring advanced aerodynamics and a powerful V6 engine."
   },
   {
     "id": 33,
@@ -592,7 +592,7 @@
       "Active Aerodynamics"
     ],
     "price": "$1730000",
-    "description": "The 2015 McLaren P1 is a hybrid hypercar, combining electric power with a potent V8 engine. With its futuristic design and Formula 1-inspired technology, it stands as a testament to McLaren's commitment to performance and innovation."
+    "description": "The 2015 McLaren P1 is a hybrid hypercar, combining electric power with a potent V8 engine. With its futuristic design and Formula 1-inspired technology."
   },
   {
     "id": 34,
@@ -610,7 +610,7 @@
       "Bang & Olufsen 3D Premium Sound"
     ],
     "price": "$120000",
-    "description": "The 2022 Audi RS7 Sportback is a sleek and powerful sedan, blending performance with avant-garde design. With its Twin-Turbo V8 and cutting-edge technology, it offers a thrilling and luxurious driving experience."
+    "description": "The 2022 Audi RS7 Sportback is a sleek and powerful sedan, blending performance with avant-garde design. With its Twin-Turbo V8 and cutting-edge technology."
   },
   {
     "id": 35,
@@ -628,7 +628,7 @@
       "Lexus Enform Infotainment"
     ],
     "price": "$70000",
-    "description": "The 2019 Lexus GS F is a luxury sedan with a focus on performance. Powered by a V8 engine and equipped with premium features, it offers a refined driving experience with a touch of sportiness."
+    "description": "The 2019 Lexus GS F is a luxury sedan with a focus on performance. Powered by a V8 engine and equipped with premium features."
   },
   {
     "id": 36,
@@ -646,7 +646,7 @@
       "4MATIC+ All-Wheel Drive"
     ],
     "price": "$120000",
-    "description": "The 2022 Mercedes-Benz E63s is a performance-oriented luxury sedan, powered by a potent Twin-Turbo V8 engine. With its sophisticated design, advanced technology, and AMG enhancements, it delivers an exhilarating driving experience with uncompromised comfort."
+    "description": "The 2022 Mercedes-Benz E63s is a performance-oriented luxury sedan, powered by a potent Twin-Turbo V8 engine. With its sophisticated design, advanced technology, and AMG enhancements."
   },
   {
     "id": 37,
@@ -664,7 +664,7 @@
       "Adaptive Variable Air Suspension"
     ],
     "price": "$95000",
-    "description": "The 2022 Lexus LS 500h is a flagship luxury sedan, combining cutting-edge hybrid technology with opulent features. Its spacious interior and advanced safety systems make it the epitome of Lexus luxury."
+    "description": "The 2022 Lexus LS 500h is a flagship luxury sedan, combining cutting-edge hybrid technology with opulent features."
   },
   {
     "id": 38,
@@ -682,7 +682,7 @@
       "Effortless Doors"
     ],
     "price": "$350000",
-    "description": "The 2023 Rolls-Royce Cullinan is the pinnacle of luxury SUVs, featuring a powerful V12 engine and the iconic craftsmanship of Rolls-Royce. With its commanding presence and opulent interior, it offers a regal driving experience."
+    "description": "The 2023 Rolls-Royce Cullinan is the pinnacle of luxury SUVs, featuring a powerful V12 engine and the iconic craftsmanship of Rolls-Royce."
   },
   {
     "id": 39,
@@ -700,7 +700,7 @@
       "Pixel-Laser LED Headlights"
     ],
     "price": "$200000",
-    "description": "The 2022 Range Rover SVAutobiography Dynamic is a flagship SUV, combining unparalleled luxury with off-road capabilities. With its powerful V8 engine and bespoke interior, it represents the pinnacle of Range Rover craftsmanship."
+    "description": "The 2022 Range Rover SVAutobiography Dynamic is a flagship SUV, combining unparalleled luxury with off-road capabilities."
   },
   {
     "id": 40,
@@ -718,7 +718,7 @@
       "Adaptive Cruise Control"
     ],
     "price": "$160000",
-    "description": "The 2023 Porsche Cayenne Turbo S E-Hybrid is a high-performance plug-in hybrid SUV, delivering a thrilling driving experience without compromising on luxury. Its advanced technology and sporty design make it a standout in the premium SUV segment."
+    "description": "The 2023 Porsche Cayenne Turbo S E-Hybrid is a high-performance plug-in hybrid SUV, delivering a thrilling driving experience without compromising on luxury."
   },
   {
     "id": 41,
@@ -736,7 +736,7 @@
       "AMG Night Package"
     ],
     "price": "$140000",
-    "description": "The 2022 Mercedes-AMG GLE 63 S is a high-performance SUV, combining the versatility of an SUV with the power of an AMG V8 engine. With its aggressive design and cutting-edge features, it offers a dynamic driving experience."
+    "description": "The 2022 Mercedes-AMG GLE 63 S is a high-performance SUV, combining the versatility of an SUV with the power of an AMG V8 engine."
   },
   {
     "id": 42,
@@ -754,7 +754,7 @@
       "Touring Specification"
     ],
     "price": "$250000",
-    "description": "The 2023 Bentley Bentayga is a luxury SUV that redefines opulence and performance. With its W12 engine and bespoke interior, it offers a first-class driving experience in a spacious and sophisticated package."
+    "description": "The 2023 Bentley Bentayga is a luxury SUV that redefines opulence and performance. With its W12 engine and bespoke interior, it offers a first-class driving."
   },
   {
     "id": 43,
@@ -772,7 +772,7 @@
       "Naim for Bentley Premium Audio"
     ],
     "price": "$280000",
-    "description": "The 2023 Bentley Flying Spur is a luxury sedan that combines opulence with performance. Its W12 engine and handcrafted interior make it a flagship model for those who seek the pinnacle of Bentley luxury."
+    "description": "The 2023 Bentley Flying Spur is a luxury sedan that combines opulence with performance."
   },
   {
     "id": 44,
@@ -790,7 +790,7 @@
       "Lexus Safety System+"
     ],
     "price": "$120000",
-    "description": "The 2023 Lexus LC 500 Convertible is a luxury convertible that delivers a blend of performance and elegance. With its V8 engine and sophisticated features, it provides a thrilling and stylish driving experience."
+    "description": "The 2023 Lexus LC 500 Convertible is a luxury convertible that delivers a blend of performance and elegance. With its V8 engine and sophisticated features."
   },
   {
     "id": 45,
@@ -808,7 +808,7 @@
       "Rear-Seat Entertainment System"
     ],
     "price": "$380000",
-    "description": "The 2023 Bentley Mulsanne is a handcrafted masterpiece, blending bespoke craftsmanship with powerful performance. With its Twin-Turbo V8 and luxurious features, it offers a grand and exclusive motoring experience."
+    "description": "The 2023 Bentley Mulsanne is a handcrafted masterpiece, blending bespoke craftsmanship with powerful performance. With its Twin-Turbo V8 and luxurious features."
   },
   {
     "id": 46,
@@ -826,7 +826,7 @@
       "ENERGIZING Comfort Control"
     ],
     "price": "$350000",
-    "description": "The 2023 Mercedes-Maybach GLS 600 is a luxury SUV that brings Maybach's elegance to the SUV segment. With its V8 Biturbo engine and lavish features, it offers a combination of performance and opulence for discerning drivers."
+    "description": "The 2023 Mercedes-Maybach GLS 600 is a luxury SUV that brings Maybach's elegance to the SUV segment. With its V8 Biturbo engine and lavish features."
   },
   {
     "id": 47,
@@ -844,7 +844,7 @@
       "Integral Active Steering"
     ],
     "price": "$140000",
-    "description": "The 2023 BMW 8 Series Gran Coupe is a premium grand tourer with a Twin-Turbo V8 engine and a spacious interior. With its elegant design and advanced technology, it offers a luxurious driving experience for those who appreciate both performance and comfort."
+    "description": "The 2023 BMW 8 Series Gran Coupe is a premium grand tourer with a Twin-Turbo V8 engine and a spacious interior. With its elegant design and advanced technology, it offers a luxurious driving experience."
   },
   {
     "id": 48,
@@ -862,7 +862,7 @@
       "AMG RIDE CONTROL Sport Suspension"
     ],
     "price": "$90000",
-    "description": "The 2023 Mercedes-AMG C63 S is a high-performance sedan that offers a perfect blend of power and luxury. With its Twin-Turbo V8 engine and AMG enhancements, it delivers a thrilling driving experience in a sophisticated package."
+    "description": "The 2023 Mercedes-AMG C63 S is a high-performance sedan that offers a perfect blend of power and luxury. With its Twin-Turbo V8 engine and AMG enhancements."
   },
   {
     "id": 49,
@@ -880,7 +880,7 @@
       "M xDrive All-Wheel-Drive System"
     ],
     "price": "$100000",
-    "description": "The 2023 BMW M4 Competition is a sporty coupe that combines dynamic performance with modern technology. With its Twin-Turbo Inline-6 engine and M Performance enhancements, it delivers a thrilling driving experience with a touch of luxury."
+    "description": "The 2023 BMW M4 Competition is a sporty coupe that combines dynamic performance with modern technology. With its Twin-Turbo Inline-6 engine and M Performance enhancements."
   },
   {
     "id": 50,
@@ -898,7 +898,7 @@
       "Chauffeur Package with Partition Wall"
     ],
     "price": "$610000",
-    "description": "The 2023 Mercedes-Maybach S650 Pullman is an ultra-luxurious limousine designed for the most discerning clientele. With its V12 engine and opulent features, it provides an exclusive and indulgent travel experience with uncompromising comfort."
+    "description": "The 2023 Mercedes-Maybach S650 Pullman is an ultra-luxurious limousine designed for the most discerning clientele. With its V12 engine and opulent features."
   },
   {
     "id": 51,
@@ -917,7 +917,7 @@
       "Active Aerodynamics"
     ],
     "price": "$300000",
-    "description": "The 2017 Ford GT is a modern interpretation of the legendary GT40. With its mid-engine layout and heritage-inspired design, it pays homage to Ford's racing history and is revered as a true American supercar."
+    "description": "The 2017 Ford GT is a modern interpretation of the legendary GT40. With its mid-engine layout and heritage-inspired design."
   },
   {
     "id": 52,
@@ -936,7 +936,7 @@
       "Distinctive M Design Elements"
     ],
     "price": "$35000",
-    "description": "The 2007 BMW M3 (E92) is a high-performance coupe known for its high-revving V8 engine and precision handling. It exemplifies the 'Ultimate Driving Machine' philosophy of BMW's M division."
+    "description": "The 2007 BMW M3 (E92) is a high-performance coupe known for its high-revving V8 engine and precision handling."
   },
   {
     "id": 53,
@@ -945,7 +945,7 @@
     "model": "GT-R R34",
     "type": "Coupe",
     "engine": "2.6L I6",
-    "year": "1999-2002",
+    "year": "2002",
     "transmission": "AWD",
     "features": [
       "Iconic Skyline Design",
@@ -955,7 +955,7 @@
       "NISMO Performance Options"
     ],
     "price": "$100000",
-    "description": "The Nissan GT-R R34 is an iconic sports car that gained legendary status in the automotive world. Known for its distinctive Skyline design, powerful RB26DETT engine, and advanced all-wheel-drive system, it became a symbol of Japanese performance engineering."
+    "description": "The Nissan GT-R R34 is an iconic sports car that gained legendary status in the automotive world."
   },
   {
     "id": 54,
@@ -974,7 +974,7 @@
       "Adaptive Cruise Control"
     ],
     "price": "$25000",
-    "description": "The 2021 Volkswagen Touareg is a midsize luxury SUV known for its combination of comfort and off-road capability. With a luxurious interior, advanced safety features, and capable all-wheel drive, the Touareg offers a premium driving experience."
+    "description": "The 2021 Volkswagen Touareg is a midsize luxury SUV known for its combination of comfort and off-road capability."
   },
   {
     "id": 55,
@@ -993,6 +993,272 @@
       "Luxurious Interior"
     ],
     "price": "$60000",
-    "description": "The 2011 BMW M5 (F10) is a high-performance sedan that combines luxury with powerful Twin-Turbo V8 performance. With advanced technology and a luxurious interior, it represents the pinnacle of BMW's M series."
+    "description": "The 2011 BMW M5 (F10) is a high-performance sedan that combines luxury with powerful Twin-Turbo V8 performance."
+  },
+  {
+    "id": 56,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/MASERATI-Levante-Trofeo-6897_3.jpg",
+    "brand": "Maserati",
+    "model": "Levante Trofeo",
+    "type": "SUV",
+    "engine": "3.8L V8",
+    "year": "2022",
+    "transmission": "AWD",
+    "features": [
+      "Corsa Driving Mode",
+      "Bowers & Wilkins Premium Sound System",
+      "Full-Grain Natural Leather Interior",
+      "Adaptive Cruise Control",
+      "Skyhook Performance Suspension"
+    ],
+    "price": "$130000",
+    "description": "The Maserati Levante Trofeo is a high-performance luxury SUV with a Ferrari-derived V8 engine."
+  },
+  {
+    "id": 57,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/ASTON-MARTIN-Vantage-6179_35.jpg",
+    "brand": "Aston Martin",
+    "model": "Vantage",
+    "type": "Coupe",
+    "engine": "4.0L V8",
+    "year": "2023",
+    "transmission": "RWD",
+    "features": [
+      "Aston Martin Aerodynamics Package",
+      "Sport-Plus Performance Seats",
+      "8-inch LCD Infotainment System",
+      "Electronic Rear Differential",
+      "Keyless Entry and Start"
+    ],
+    "price": "$140000",
+    "description": "The Aston Martin Vantage is a true sports car, featuring a distinctive design, a powerful V8 engine."
+  },
+  {
+    "id": 58,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/BUGATTI-Chiron-5583_24.jpg",
+    "brand": "Bugatti",
+    "model": "Chiron",
+    "type": "Coupe",
+    "engine": "8.0L Quad-Turbo W16",
+    "year": "2023",
+    "transmission": "AWD",
+    "features": [
+      "Quad-Turbocharged W16 Engine",
+      "Top Speed Exceeding 260 mph",
+      "Diamond-cut Interior Trim",
+      "Carbon Fiber Body Elements",
+      "Bugatti Advanced Aerodynamics"
+    ],
+    "price": "$3000000",
+    "description": "The Bugatti Chiron is a hypercar that represents the pinnacle of automotive engineering and performance."
+  },
+  {
+    "id": 59,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/porsche-taycan-2021-7173_31.jpg",
+    "brand": "Porsche",
+    "model": "Taycan Turbo S",
+    "type": "Sedan",
+    "engine": "Electric",
+    "year": "2022",
+    "transmission": "AWD",
+    "features": [
+      "800-Volt System for Fast Charging",
+      "Porsche Electric Sport Sound",
+      "4D Surround View Camera",
+      "Porsche Advanced Cockpit",
+      "Adaptive Cruise Control"
+    ],
+    "price": "$185000",
+    "description": "The Porsche Taycan Turbo S is an all-electric sedan that redefines electric performance, featuring rapid charging capabilities."
+  },
+  {
+    "id": 60,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/audi-e-tron-gt-quattro-2021-7015_30.jpg",
+    "brand": "Audi",
+    "model": "e-tron GT",
+    "type": "Sedan",
+    "engine": "Electric",
+    "year": "2022",
+    "transmission": "AWD",
+    "features": [
+      "Quattro all-wheel drive",
+      "Audi Virtual Cockpit",
+      "Bang & Olufsen Premium Sound",
+      "Matrix LED Headlights",
+      "Audi Pre Sense Safety Systems"
+    ],
+    "price": "$100000",
+    "description": "The Audi e-tron GT is a performance-oriented electric sports car, featuring dynamic styling, cutting-edge technology."
+  },
+  {
+    "id": 61,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/ASTON-MARTIN-DB11-5587_36.jpg",
+    "brand": "Aston Martin",
+    "model": "DB11",
+    "type": "Grand Tourer",
+    "engine": "5.2L Twin-Turbo V12",
+    "year": "2022",
+    "transmission": "RWD",
+    "features": [
+      "Gloss Black Roof Strake",
+      "Brogue Detailing on Seats",
+      "8-inch Infotainment Screen",
+      "360-Degree Camera System",
+      "Aston Martin Premium Audio"
+    ],
+    "price": "$250000",
+    "description": "The Aston Martin DB11 is a luxurious grand tourer, combining British elegance with high-performance, featuring a twin-turbo V12 engine."
+  },
+  {
+    "id": 62,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/BMW-i8-4997_14.jpg",
+    "brand": "BMW",
+    "model": "i8",
+    "type": "Plug-in Hybrid Sports Car",
+    "engine": "1.5L TwinPower Turbo 3-Cylinder Hybrid",
+    "year": "2022",
+    "transmission": "AWD",
+    "features": [
+      "Carbon Fiber Reinforced Plastic Construction",
+      "Harman Kardon Premium Sound",
+      "Head-Up Display",
+      "eDrive Technology for Electric Mode",
+      "ConnectedDrive Services"
+    ],
+    "price": "$160000",
+    "description": "The BMW i8 is a futuristic plug-in hybrid sports car, combining innovative design with sustainable driving."
+  },
+  {
+    "id": 63,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/JAGUAR-I-PACE-6279_11.jpg",
+    "brand": "Jaguar",
+    "model": "I-PACE",
+    "type": "SUV",
+    "engine": "Electric",
+    "year": "2023",
+    "transmission": "AWD",
+    "features": [
+      "Dual Motors for Instant Torque",
+      "Pivi Pro Infotainment with 12.3-inch Display",
+      "Luxtec Sport Seats",
+      "Adaptive Dynamics Suspension",
+      "Driver Assistance Features"
+    ],
+    "price": "$90000",
+    "description": "The Jaguar I-PACE is a luxury electric SUV, offering a blend of performance and sustainability."
+  },
+  {
+    "id": 64,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-Escalade-6737_39.jpg",
+    "brand": "Cadillac",
+    "model": "Escalade",
+    "type": "SUV",
+    "engine": "6.2L V8",
+    "year": "2023",
+    "transmission": "4WD",
+    "features": [
+      "Super Cruise - Hands-Free Driving",
+      "AKG Studio Reference Sound System",
+      "Curved Organic Light-Emitting Diode (OLED) Screen",
+      "Air Ride Adaptive Suspension",
+      "Tri-Zone Climate Control"
+    ],
+    "price": "$95000",
+    "description": "The Cadillac Escalade is a luxury SUV with bold style and advanced technology, featuring a powerful V8 engine."
+  },
+  {
+    "id": 65,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/mercedes-amg-gls-63-2023-7464_16.jpg",
+    "brand": "Mercedes-Benz",
+    "model": "GLS",
+    "type": "SUV",
+    "engine": "4.0L V8",
+    "year": "2022",
+    "transmission": "AWD",
+    "features": [
+      "MBUX Interior Assistant",
+      "E-ACTIVE BODY CONTROL",
+      "MB Navigation with Augmented Reality",
+      "Executive Rear Seat Package",
+      "Panoramic Sliding Sunroof"
+    ],
+    "price": "$125000",
+    "description": "The Mercedes-Benz GLS is a powerful SUV featuring a V8 Biturbo engine."
+  },
+  {
+    "id": 66,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/CADILLAC-CT6-V-Sport-6326_9.jpg",
+    "brand": "Cadillac",
+    "model": "CT6",
+    "type": "Sedan",
+    "engine": "3.6L V6",
+    "year": "2022",
+    "transmission": "AWD",
+    "features": [
+      "Super Cruise",
+      "Quadzone Climate Control",
+      "Bose Panaray Sound System",
+      "Rear-Seat Infotainment",
+      "Active Chassis Package"
+    ],
+    "price": "$90000",
+    "description": "The Cadillac CT6 is a luxury sedan with Super Cruise capability, a refined V6 engine, and an indulgent interior."
+  },
+  {
+    "id": 67,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/ROLLS-ROYCE-Wraith-4791_21.jpg",
+    "brand": "Rolls-Royce",
+    "model": "Wraith",
+    "type": "Coupe",
+    "engine": "6.6L V12",
+    "year": "2023",
+    "transmission": "RWD",
+    "features": [
+      "Starlight Headliner",
+      "The Wraith Package",
+      "Bespoke Interior Details",
+      "Night Vision with Pedestrian Recognition",
+      "Spirit of Ecstasy Rotary Controller"
+    ],
+    "price": "$325000",
+    "description": "The Rolls-Royce Wraith is an exquisite coupe with a powerful twin-turbo V12, unparalleled bespoke customization."
+  },
+  {
+    "id": 68,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/BMW-X7-6431_38.jpg",
+    "brand": "BMW",
+    "model": "X7",
+    "type": "SUV",
+    "engine": "3.0L I6",
+    "year": "2023",
+    "transmission": "AWD",
+    "features": [
+      "Panoramic Sky Lounge LED Roof",
+      "Harman Kardon Surround Sound System",
+      "BMW Intelligent Personal Assistant",
+      "Executive Package",
+      "Adaptive Cruise Control"
+    ],
+    "price": "$190000",
+    "description": "The BMW X7 is a spacious SUV with a twin-turbo inline-6 engine, a luxurious panoramic roof, and advanced driver assistance and infotainment features."
+  },
+  {
+    "id": 69,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/infiniti-qx80-2021-7147_20.jpg",
+    "brand": "Infiniti",
+    "model": "QX80",
+    "type": "SUV",
+    "engine": "5.6L V8",
+    "year": "2023",
+    "transmission": "4WD",
+    "features": [
+      "Hydraulic Body Motion Control",
+      "Semi-Aniline Leather-Appointed Seating",
+      "ProASSIST Package",
+      "Dual 8-inch Screens for Rear Entertainment",
+      "Bose Performance Series Audio"
+    ],
+    "price": "$85000",
+    "description": "The Infiniti QX80 is a premium SUV with a powerful V8 engine, advanced suspension technology, and luxurious features for a comfortable and connected ride."
   }
 ]
