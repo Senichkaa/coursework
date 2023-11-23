@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/coursework/static/css/main.7acaea2f.css",
-    "main.js": "/coursework/static/js/main.b7b790b4.js",
-    "static/js/836.b7d56089.chunk.js": "/coursework/static/js/836.b7d56089.chunk.js",
-    "static/js/143.904241a8.chunk.js": "/coursework/static/js/143.904241a8.chunk.js",
+    "main.js": "/coursework/static/js/main.5dde9f0b.js",
+    "static/js/836.f700b468.chunk.js": "/coursework/static/js/836.f700b468.chunk.js",
+    "static/js/196.ab437c1e.chunk.js": "/coursework/static/js/196.ab437c1e.chunk.js",
     "static/js/173.d878aa72.chunk.js": "/coursework/static/js/173.d878aa72.chunk.js",
     "static/js/306.657abaf9.chunk.js": "/coursework/static/js/306.657abaf9.chunk.js",
     "static/js/241.560252ec.chunk.js": "/coursework/static/js/241.560252ec.chunk.js",
@@ -17,17 +17,18 @@
     "static/media/Montserrat.woff2": "/coursework/static/media/Montserrat.63b09632586acfb651b6.woff2",
     "static/media/icon-sprite.svg": "/coursework/static/media/icon-sprite.07c2f3ae7de98d089368af44c5d37bfb.svg",
     "static/media/icons.svg": "/coursework/static/media/icons.ed65dcbe5aff8d72f7c52f085a04b298.svg",
+    "static/media/modal-icons.svg": "/coursework/static/media/modal-icons.c489487c5bc75dc60a6a77179720aff4.svg",
     "index.html": "/coursework/index.html",
     "main.7acaea2f.css.map": "/coursework/static/css/main.7acaea2f.css.map",
-    "main.b7b790b4.js.map": "/coursework/static/js/main.b7b790b4.js.map",
-    "836.b7d56089.chunk.js.map": "/coursework/static/js/836.b7d56089.chunk.js.map",
-    "143.904241a8.chunk.js.map": "/coursework/static/js/143.904241a8.chunk.js.map",
+    "main.5dde9f0b.js.map": "/coursework/static/js/main.5dde9f0b.js.map",
+    "836.f700b468.chunk.js.map": "/coursework/static/js/836.f700b468.chunk.js.map",
+    "196.ab437c1e.chunk.js.map": "/coursework/static/js/196.ab437c1e.chunk.js.map",
     "173.d878aa72.chunk.js.map": "/coursework/static/js/173.d878aa72.chunk.js.map",
     "306.657abaf9.chunk.js.map": "/coursework/static/js/306.657abaf9.chunk.js.map",
     "241.560252ec.chunk.js.map": "/coursework/static/js/241.560252ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.b7b790b4.js"
+    "static/js/main.5dde9f0b.js"
   ]
 }
