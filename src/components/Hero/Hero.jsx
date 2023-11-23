@@ -1,5 +1,6 @@
 import React from 'react';
 import { Container } from 'common/Container.styled';
+import { useNavigate } from 'react-router-dom';
 import {
   HeroSection,
   HeroTextWrapper,
@@ -9,7 +10,13 @@ import {
   HeroSecondText,
   HeroButton,
 } from './Hero.styled';
+
 function Hero() {
+  const navigate = useNavigate();
+
+  const navigateHandle = () => {
+    navigate('/catalog');
+  };
   return (
     <HeroSection>
       <Container>
@@ -29,7 +36,10 @@ function Hero() {
             the owner of which you can become,{' '}
             <HeroSpan>because you are worth it.</HeroSpan>
           </HeroSecondText>
-          &nbsp; <HeroButton type="button">Select a car</HeroButton>
+          &nbsp;{' '}
+          <HeroButton type="button" onClick={navigateHandle}>
+            Select a car
+          </HeroButton>
         </HeroTextWrapper>
       </Container>
     </HeroSection>

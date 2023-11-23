@@ -1030,7 +1030,7 @@
       "Electronic Rear Differential",
       "Keyless Entry and Start"
     ],
-    "price": "$140000",
+    "price": "$185000",
     "description": "The Aston Martin Vantage is a true sports car, featuring a distinctive design, a powerful V8 engine."
   },
   {
@@ -1260,5 +1260,347 @@
     ],
     "price": "$85000",
     "description": "The Infiniti QX80 is a premium SUV with a powerful V8 engine, advanced suspension technology, and luxurious features for a comfortable and connected ride."
+  },
+  {
+    "id": 70,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/FORD-Mustang-Shelby-GT500-6483_31.jpg",
+    "brand": "Ford",
+    "model": "Mustang Shelby GT500",
+    "type": "Muscle Car",
+    "engine": "5.2L V8",
+    "year": "2023",
+    "transmission": "RWD",
+    "features": [
+      "Brembo Front and Rear Calipers",
+      "MagneRide Damping System",
+      "Recaro Leather-Trimmed Seats",
+      "Ford SYNC 4 Infotainment System",
+      "Launch Control"
+    ],
+    "price": "$75000",
+    "description": "The Ford Mustang Shelby GT500 is an iconic muscle car with a potent 5.2L Supercharged V8 engine. Feel the power with features."
+  },
+  {
+    "id": 71,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/BUGATTISuperSport-4597_10.jpg",
+    "brand": "Bugatti",
+    "model": "Veyron Super Sport",
+    "type": "Hypercar",
+    "engine": "8.0L W16",
+    "year": "2015",
+    "transmission": "AWD",
+    "features": [
+      "World's Fastest Production Car",
+      "1,479 Horsepower",
+      "Top Speed Over 300 mph",
+      "All-Wheel Drive System",
+      "Carbon Fiber Body"
+    ],
+    "price": "$3000000",
+    "description": "The Bugatti Veyron Super Sport is a legendary hypercar, holding the title of the world's fastest production car."
+  },
+  {
+    "id": 72,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/LEXUS-LFA-4155_23.jpg",
+    "brand": "Lexus",
+    "model": "LFA",
+    "type": "Supercar",
+    "engine": "4.8L V10",
+    "year": "2013",
+    "transmission": "RWD",
+    "features": [
+      "Carbon Fiber Reinforced Polymer (CFRP) Body",
+      "553 Horsepower",
+      "Digital TFT Instrument Cluster",
+      "Mark Levinson Surround Sound System",
+      "Limited Production Run"
+    ],
+    "price": "$450,000",
+    "description": "The Lexus LFA is a rare and exquisite supercar, featuring a Carbon Fiber Reinforced Polymer (CFRP) body."
+  },
+  {
+    "id": 73,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/ACURA-NSX-5663_11.jpg",
+    "brand": "Acura",
+    "model": "NSX",
+    "type": "Hybrid Supercar",
+    "engine": "3.5L V6 Hybrid",
+    "year": "2023",
+    "transmission": "AWD",
+    "features": [
+      "Precision Crafted Performance Design",
+      "Integrated Dynamics System (IDS)",
+      "Els Studio Premium Audio System",
+      "Sport Hybrid Super Handling All-Wheel Drive (SH-AWD)",
+      "Carbon Ceramic Brake Rotors"
+    ],
+    "price": "$170000",
+    "description": "The Acura NSX is a hybrid supercar featuring Precision Crafted Performance design."
+  },
+  {
+    "id": 74,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/PAGANI-Huayra-5246_14.jpg",
+    "brand": "Pagani",
+    "model": "Huayra",
+    "type": "Hypercar",
+    "engine": "6.0L V12",
+    "year": "2021",
+    "transmission": "RWD",
+    "features": [
+      "Artistic Handcrafted Interior",
+      "Active Aerodynamics",
+      "Seven-Speed Automated Manual Transmission",
+      "Carbon-Titanium Monocoque",
+      "Sonus Faber High-End Audio System"
+    ],
+    "price": "$3500000",
+    "description": "The Pagani Huayra is an extraordinary hypercar with an artistic handcrafted interior."
+  },
+  {
+    "id": 75,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/KOENIGSEGG-Jesko-6529_9.jpg",
+    "brand": "Koenigsegg",
+    "model": "Jesko Absolut",
+    "type": "Hypercar",
+    "engine": "5.0L V8",
+    "year": "2023",
+    "transmission": "RWD",
+    "features": [
+      "Most Aerodynamically Efficient Koenigsegg Ever",
+      "Light Speed Transmission (LST)",
+      "Carbon Fiber Chassis",
+      "Rear-Wheel Steering",
+      "Custom-Made Koenigsegg Gemera Key"
+    ],
+    "price": "$4000000",
+    "description": "The Koenigsegg Jesko Absolut is the most aerodynamically efficient Koenigsegg ever created."
+  },
+  {
+    "id": 76,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/MASERATI-MC20-6928_61.jpg",
+    "brand": "Maserati",
+    "model": "MC20",
+    "type": "Supercar",
+    "engine": "3.0L V6",
+    "year": "2023",
+    "transmission": "RWD",
+    "features": [
+      "Mid-Engine Layout",
+      "Carbon Fiber Monocoque",
+      "Nerissimo Package",
+      "10.25-inch Touchscreen Infotainment",
+      "Active Aero Rear Spoiler"
+    ],
+    "price": "$210000",
+    "description": "The Maserati MC20 is a mid-engine supercar with a carbon fiber monocoque. Embrace sleekness with the Nerissimo package."
+  },
+  {
+    "id": 77,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/MAZDA-MX-5---Miata-5280_62.jpeg",
+    "brand": "Mazda",
+    "model": "MX-5 Miata",
+    "type": "Convertible Roadster",
+    "engine": "2.0L I4",
+    "year": "2023",
+    "transmission": "RWD",
+    "features": [
+      "Classic Convertible Roadster",
+      "Skyactiv-G 2.0L Engine",
+      "Lightweight and Nimble",
+      "Retractable Fastback Option",
+      "Elevated Driving Joy"
+    ],
+    "price": "$30000",
+    "description": "The Mazda MX-5 Miata is a classic convertible roadster featuring lightweight and nimble design."
+  },
+  {
+    "id": 78,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/SUBARU-WRX-STI--S209--6488_26.jpg",
+    "brand": "Subaru",
+    "model": "WRX STI",
+    "type": "Performance Sedan",
+    "engine": "2.4L H4",
+    "year": "2023",
+    "transmission": "AWD",
+    "features": [
+      "Rally-Inspired Performance",
+      "Symmetrical All-Wheel Drive",
+      "Brembo Performance Brakes",
+      "Recaro Sport Seats",
+      "Driver-Focused Technology"
+    ],
+    "price": "$40000",
+    "description": "The Subaru WRX STI is a performance sedan with rally-inspired performance, equipped with symmetrical all-wheel drive."
+  },
+  {
+    "id": 79,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/volkswagen-id4-2020-6988_21.jpg",
+    "brand": "Volkswagen",
+    "model": "ID.4",
+    "type": "SUV",
+    "engine": "Electric",
+    "year": "2023",
+    "transmission": "RWD",
+    "features": [
+      "Efficient Electric Mobility",
+      "ID. Light and Voice Control",
+      "Spacious Interior",
+      "Intuitive Infotainment System",
+      "Safety Assist Systems"
+    ],
+    "price": "$45000",
+    "description": "The Volkswagen ID.4 is an electric SUV delivering efficient electric mobility, featuring ID."
+  },
+  {
+    "id": 80,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/Lucid-Motors-Lucid-Air-6929_18.jpg",
+    "brand": "Lucid",
+    "model": "Air Grand Touring",
+    "type": "Sedan",
+    "engine": "Electric",
+    "year": "2023",
+    "transmission": "AWD",
+    "features": [
+      "Luxury Electric Elegance",
+      "Dual Electric Motor Performance",
+      "DreamDrive Advanced Driver-Assistance",
+      "Opulent Interior Materials",
+      "Spacious Executive Seating"
+    ],
+    "price": "$198000",
+    "description": "The Lucid Air Grand Touring is an electric luxury sedan embodying luxury electric elegance, featuring dual electric motor performance."
+  },
+  {
+    "id": 81,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/mercedes-benz-eqs-2021-7145_35.jpg",
+    "brand": "Mercedes-Benz",
+    "model": "EQS",
+    "type": "Sedan",
+    "engine": "Electric",
+    "year": "2023",
+    "transmission": "AWD",
+    "features": [
+      "Next-Generation Electric Luxury",
+      "MBUX Hyperscreen Infotainment",
+      "Rear-Wheel Steering",
+      "Energizing Comfort Control",
+      "Luxury and Sustainability"
+    ],
+    "price": "$120000",
+    "description": "The Mercedes-Benz EQS is a next-generation electric luxury sedan, featuring the revolutionary MBUX Hyperscreen infotainment."
+  },
+  {
+    "id": 82,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/dodge-challenger-srt-demon-170-2023-7458_34.jpg",
+    "brand": "Dodge",
+    "model": "Challenger SRT Hellcat Redeye",
+    "type": "Muscle Car",
+    "engine": "6.2L Hemi V8",
+    "year": "2023",
+    "transmission": "RWD",
+    "features": [
+      "Unleash the Demon",
+      "Supercharged Hemi V8 Power",
+      "Widebody Aggressive Styling",
+      "Drag Race-Worthy Performance",
+      "High-Performance Brake System"
+    ],
+    "price": "$90000",
+    "description": "The Dodge Challenger SRT Hellcat Redeye allows you to unleash the demon, boasting supercharged Hemi V8 power."
+  },
+  {
+    "id": 83,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/INFINITI-Q60-6341_21.jpg",
+    "brand": "Infiniti",
+    "model": "Q60 Red Sport 400",
+    "type": "Luxury Sports Coupe",
+    "engine": "3.0L V6",
+    "year": "2023",
+    "transmission": "RWD",
+    "features": [
+      "Luxury Meets Performance",
+      "Twin-Turbo V6 Dynamism",
+      "Adaptive Suspension",
+      "Bose Performance Series Audio",
+      "Striking Design Language"
+    ],
+    "price": "$55000",
+    "description": "The Infiniti Q60 Red Sport 400 is where luxury meets performance, featuring twin-turbo V6 dynamism, adaptive suspension."
+  },
+  {
+    "id": 84,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/jeep-grand-wagoneer-2021-7039_79.jpg",
+    "brand": "Jeep",
+    "model": "Grand Wagoneer",
+    "type": "Luxury SUV",
+    "engine": "6.4L V8",
+    "year": "2023",
+    "transmission": "4WD",
+    "features": [
+      "Jeep's Grand Luxury SUV",
+      "Commanding V8 Power",
+      "Quadra-Lift Air Suspension",
+      "Premium McIntosh Audio System",
+      "Iconic Seven-Slot Grille"
+    ],
+    "price": "$80000",
+    "description": "The Jeep Grand Wagoneer stands as Jeep's grand luxury SUV, commanding with a V8 power, Quadra-Lift air suspension."
+  },
+  {
+    "id": 85,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/DODGE-SRT-Viper-4641_27.jpg",
+    "brand": "Dodge",
+    "model": "Viper",
+    "type": "Supercar",
+    "engine": "8.4L V10",
+    "year": "2017",
+    "transmission": "RWD",
+    "features": [
+      "Legendary American Supercar",
+      "Massive 8.4L V10 Power",
+      "Track-Ready Performance",
+      "Iconic Viper Design",
+      "Raw and Unapologetic Driving Experience"
+    ],
+    "price": "$120000",
+    "description": "The Dodge Viper, a legendary American supercar, roars to life with a massive 8.4L V10 engine."
+  },
+  {
+    "id": 86,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/MERCEDESBENZS-Klasse-W140--1893_11.jpg",
+    "brand": "Mercedes-Benz",
+    "model": "W140 S-Class",
+    "type": "Sedan",
+    "engine": "6.0L V12",
+    "year": "1997",
+    "transmission": "RWD",
+    "features": [
+      "Opulent V12 Power",
+      "Unmatched Luxury and Comfort",
+      "Exceptional Craftsmanship",
+      "Cutting-Edge Technology for its Era",
+      "Pinnacle of Automotive Elegance"
+    ],
+    "price": "89500",
+    "description": "The Mercedes-Benz W140 S-Class with a commanding 6.0L V12 engine, produced from 1991 to 1998."
+  },
+  {
+    "id": 87,
+    "img": "https://s1.cdn.autoevolution.com/images/gallery/MAYBACH-62-Spezial--V240--1341_39.jpg",
+    "brand": "Maybach",
+    "model": "62",
+    "type": "Ultra-Luxury Sedan",
+    "engine": "5.5L V12",
+    "year": "2012",
+    "transmission": "5-Speed Automatic",
+    "features": [
+      "Pinnacle of Ultra-Luxury",
+      "Palatial Interior Space",
+      "Silky Smooth V12 Power",
+      "State-of-the-Art Technology",
+      "Chauffeur-Driven Opulence"
+    ],
+    "price": "213500",
+    "description": "The Maybach 62, spanning from 2002 to 2013, stands as the pinnacle of ultra-luxury sedans."
   }
 ]

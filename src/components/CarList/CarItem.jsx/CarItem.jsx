@@ -1,4 +1,5 @@
-import React from 'react';
+import React, { useState } from 'react';
+import Modal from 'components/Modal/Modal';
 import {
   Item,
   CardTextWrapper,
@@ -7,15 +8,22 @@ import {
   CardImage,
   CardTitleSpan,
   CardDescriptionText,
-  CardFeaturesText,
   FeatureTitle,
-  FeatureText,
   PriceText,
+  LearnMoreButton,
 } from './CarItemStyled';
 
 function CarItem({ car }) {
-  const { id, img, brand, model, year, features, description, price } = car;
+  const { id, img, brand, model, year, description, price } = car;
+  const [isModalOpen, setIsModalOpen] = useState(false);
 
+  const modalOpen = () => {
+    setIsModalOpen(true);
+  };
+
+  const modalClose = () => {
+    setIsModalOpen(false);
+  };
   return (
     <Item key={id}>
       <ImageWrapper>
@@ -26,17 +34,15 @@ function CarItem({ car }) {
           {brand}&nbsp;{model} <CardTitleSpan>,</CardTitleSpan> {year}
         </CardTitle>
         <CardDescriptionText>{description}</CardDescriptionText>
-        <CardFeaturesText>
-          <FeatureTitle>Features: </FeatureTitle>
-          {features.map((feature, index) => (
-            <FeatureText key={index}>{feature} </FeatureText>
-          ))}
-        </CardFeaturesText>
         <PriceText>
           <FeatureTitle>Price: </FeatureTitle>
           {price}
         </PriceText>
       </CardTextWrapper>
+      <LearnMoreButton type="button" onClick={modalOpen}>
+        Learn More
+      </LearnMoreButton>
+      {isModalOpen && <Modal onClose={modalClose} car={car} />}
     </Item>
   );
 }

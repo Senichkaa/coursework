@@ -4,7 +4,7 @@ import variables from 'common/Variables';
 export const FilterSection = styled.section`
   display: flex;
   flex-direction: column;
-  padding: 30px 0px 80px 50px;
+  padding: 30px 0px 50px 50px;
 `;
 
 export const FilterBlock = styled.div`
