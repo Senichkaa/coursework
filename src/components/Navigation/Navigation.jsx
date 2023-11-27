@@ -20,9 +20,9 @@ function Navigation() {
   const handleOptionClick = option => {
     setIsHovered(false);
     if (option === 'Log In') {
-      navigate('/login');
+      navigate('api/auth/login');
     } else if (option === 'Register') {
-      navigate('/register');
+      navigate('api/auth/register');
     }
   };
 

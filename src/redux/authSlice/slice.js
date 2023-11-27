@@ -1,11 +1,13 @@
-import { createSlice } from '@reduxjs/toolkit';
-import { login, logout, register } from './operations';
+import { createSlice } from "@reduxjs/toolkit";
+import { login, register, logout } from "./authThunk";
 
 const initialState = {
-  user: { name: null, email: null },
-  token: null,
-  isLoggedIn: false,
-};
+    user: {
+        name: null,
+        email: null
+    },
+    token: null
+}
 
 const authSlice = createSlice({
   name: 'auth',
@@ -16,17 +18,14 @@ const authSlice = createSlice({
       .addCase(login.fulfilled, (state, { payload }) => {
         state.user = payload.user;
         state.token = payload.token;
-        state.isLoggedIn = true;
       })
       .addCase(logout.fulfilled, state => {
         state.user = { name: null, email: null };
         state.token = null;
-        state.isLoggedIn = false;
       })
       .addCase(register.fulfilled, (state, { payload }) => {
         state.user = payload.user;
         state.token = payload.token;
-        state.isLoggedIn = true;
       }),
 });
 

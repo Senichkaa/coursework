@@ -1,6 +1,6 @@
 import { configureStore } from '@reduxjs/toolkit';
 import { carsSlice } from './carSlice/slice';
-import { authReducer } from './auth/authSlice';
+import { authReducer } from './authSlice/slice';
 import {
   persistStore,
   persistReducer,
@@ -24,6 +24,7 @@ const authPersistConfig = {
   storage,
   whitelist: ['token'],
 };
+
 
 export const store = configureStore({
   reducer: {
