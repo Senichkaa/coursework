@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+import { useSelector, useDispatch } from 'react-redux';
+import { logout } from 'redux/authSlice/authThunk';
 import {
   NavigationNav,
   NavigationLink,
@@ -12,6 +14,8 @@ import { FiUser } from 'react-icons/fi';
 function Navigation() {
   const [isHovered, setIsHovered] = useState(false);
   const navigate = useNavigate();
+  const isLoggedIn = useSelector(state => state.auth.isLoggedIn);
+  const dispatch = useDispatch();
 
   const handleUserDivClick = () => {
     setIsHovered(!isHovered);
@@ -23,6 +27,16 @@ function Navigation() {
       navigate('api/auth/login');
     } else if (option === 'Register') {
       navigate('api/auth/register');
+    } else if (option === 'Logout') {
+      navigate('api/auth/logout');
+      dispatch(logout())
+        .unwrap()
+        .then(() => {
+          navigate('/catalog');
+        })
+        .catch(error => {
+          console.error('Logout failed:', error);
+        });
     }
   };
 
@@ -36,12 +50,20 @@ function Navigation() {
         <FiUser />
         {isHovered && (
           <HoverOptions className={isHovered ? '' : 'hide'}>
-            <InsideMenuDiv onClick={() => handleOptionClick('Log In')}>
-              Log In
-            </InsideMenuDiv>
-            <InsideMenuDiv onClick={() => handleOptionClick('Register')}>
-              Register
-            </InsideMenuDiv>
+            {isLoggedIn ? (
+              <InsideMenuDiv onClick={() => handleOptionClick('Logout')}>
+                Logout
+              </InsideMenuDiv>
+            ) : (
+              <>
+                <InsideMenuDiv onClick={() => handleOptionClick('Log In')}>
+                  Log In
+                </InsideMenuDiv>
+                <InsideMenuDiv onClick={() => handleOptionClick('Register')}>
+                  Register
+                </InsideMenuDiv>
+              </>
+            )}
           </HoverOptions>
         )}
       </UserDiv>

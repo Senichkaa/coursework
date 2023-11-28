@@ -52,16 +52,19 @@ export const login = createAsyncThunk(
       setAuthHeader(response.data.token);
       return response.data;
     } catch (error) {
+      console.error('Login failed:', error.response.data);
       return thunkAPI.rejectWithValue(error.message);
     }
   }
 );
 
 export const logout = createAsyncThunk(
-  'https://coursework-rest-api.onrender.com/api/auth/logout',
+  '/auth/logout',
   async (_, thunkAPI) => {
     try {
-      await axios.post('/auth/logout');
+      await axios.post(
+        'https://coursework-rest-api.onrender.com/api/auth/logout'
+      );
       clearAuthHeader();
     } catch (error) {
       return thunkAPI.rejectWithValue(error.message);
