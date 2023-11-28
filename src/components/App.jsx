@@ -9,6 +9,7 @@ const HomePage = lazy(() => import('../pages/HomePage.jsx'));
 const CatalogPage = lazy(() => import('../pages/CatalogPage.jsx'));
 const ConfigurePage = lazy(() => import('../pages/ConfigurePage.jsx'));
 const CartPage = lazy(() => import('../pages/CartPage.jsx'));
+const LogoutPage = lazy(() => import('../pages/LogoutPage.jsx'));
 
 function App() {
   return (
@@ -29,6 +30,15 @@ function App() {
             path="api/auth/login"
             element={
               <RestrictedRoute redirectTo="/catalog" component={LoginForm} />
+            }
+          />
+          <Route
+            path="api/auth/logout"
+            element={
+              <RestrictedRoute
+                redirectTo="/catalog"
+                component={<LogoutPage />}
+              />
             }
           />
         </Route>
