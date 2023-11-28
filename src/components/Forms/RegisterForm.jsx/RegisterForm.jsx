@@ -18,14 +18,19 @@ export const RegisterForm = () => {
     }));
   };
 
-  const handleSubmit = event => {
+  const handleSubmit = async event => {
     event.preventDefault();
-    dispatch(register(formData));
-    setFormData({
-      name: '',
-      email: '',
-      password: '',
-    });
+
+    try {
+      await dispatch(register(formData));
+      setFormData({
+        name: '',
+        email: '',
+        password: '',
+      });
+    } catch (error) {
+      console.error('Registration failed', error);
+    }
   };
 
   return (

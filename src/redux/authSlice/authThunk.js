@@ -1,7 +1,7 @@
 import { createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 
-axios.defaults.baseURL = 'https://coursework-rest-api.onrender.com/';
+// axios.defaults.baseURL = 'https://coursework-rest-api.onrender.com/api';
 
 axios.interceptors.request.use(
   config => {
@@ -25,23 +25,30 @@ const clearAuthHeader = () => {
 };
 
 export const register = createAsyncThunk(
-  '/api/auth/register',
+  '/auth/register',
   async (credentials, thunkAPI) => {
     try {
-      const response = await axios.post('/api/auth/register', credentials);
+      const response = await axios.post(
+        'https://coursework-rest-api.onrender.com/api/auth/register',
+        credentials
+      );
       setAuthHeader(response.data.token);
       return response.data;
     } catch (error) {
+      console.error('Registration failed:', error);
       return thunkAPI.rejectWithValue(error.message);
     }
   }
 );
 
 export const login = createAsyncThunk(
-  '/api/auth/login',
+  '/auth/login',
   async (credentials, thunkAPI) => {
     try {
-      const response = await axios.post('/api/auth/login', credentials);
+      const response = await axios.post(
+        'https://coursework-rest-api.onrender.com/api/auth/login',
+        credentials
+      );
       setAuthHeader(response.data.token);
       return response.data;
     } catch (error) {
@@ -50,11 +57,14 @@ export const login = createAsyncThunk(
   }
 );
 
-export const logout = createAsyncThunk('api/auth/logout', async (_, thunkAPI) => {
+export const logout = createAsyncThunk(
+  'https://coursework-rest-api.onrender.com/api/auth/logout',
+  async (_, thunkAPI) => {
     try {
-        await axios.post('/api/auth/logout');
-        clearAuthHeader()
+      await axios.post('/auth/logout');
+      clearAuthHeader();
     } catch (error) {
-        return thunkAPI.rejectWithValue(error.message)
+      return thunkAPI.rejectWithValue(error.message);
     }
-})
+  }
+);
