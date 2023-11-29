@@ -8,6 +8,8 @@ import {
   HoverOptions,
   UserDiv,
   InsideMenuDiv,
+  WelcomeSpan,
+  UserWelcome,
 } from './Navigation.styled';
 import { FiUser } from 'react-icons/fi';
 
@@ -15,6 +17,7 @@ function Navigation() {
   const [isHovered, setIsHovered] = useState(false);
   const navigate = useNavigate();
   const isLoggedIn = useSelector(state => state.auth.isLoggedIn);
+  const name = useSelector(state => state.auth.user.name);
   const dispatch = useDispatch();
 
   const handleUserDivClick = () => {
@@ -51,9 +54,15 @@ function Navigation() {
         {isHovered && (
           <HoverOptions className={isHovered ? '' : 'hide'}>
             {isLoggedIn ? (
-              <InsideMenuDiv onClick={() => handleOptionClick('Logout')}>
-                Logout
-              </InsideMenuDiv>
+              <>
+                <UserWelcome>
+                  Welcome,
+                  <br /> <WelcomeSpan>{name}</WelcomeSpan>
+                </UserWelcome>
+                <InsideMenuDiv onClick={() => handleOptionClick('Logout')}>
+                  Logout
+                </InsideMenuDiv>
+              </>
             ) : (
               <>
                 <InsideMenuDiv onClick={() => handleOptionClick('Log In')}>

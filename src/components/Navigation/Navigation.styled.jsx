@@ -77,7 +77,7 @@ export const HoverOptions = styled.div`
   flex-direction: row;
   z-index: 100;
   height: 60px;
-  width: 190px;
+  min-width: 190px;
   border-radius: 8px;
   margin-top: 5px;
   opacity: 0;
@@ -102,4 +102,13 @@ export const InsideMenuDiv = styled.div`
     background-color: ${variables.advantageRectBg};
     color: ${variables.logoPrimary};
   }
+`;
+
+export const UserWelcome = styled.p`
+  width: 140px;
+  font-size: 14px;
+`;
+export const WelcomeSpan = styled.span`
+  font-size: 14px;
+  color: ${variables.logoPrimary};
 `;

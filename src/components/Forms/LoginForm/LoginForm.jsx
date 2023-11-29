@@ -1,6 +1,16 @@
 import { useDispatch } from 'react-redux';
 import { useState } from 'react';
 import { login } from '../../../redux/authSlice/authThunk';
+import {
+  CenteredContainer,
+  AuthForm,
+  TitleSpan,
+  Title,
+  FormLabel,
+  FormInput,
+  FormButton,
+} from '../Forms.styled';
+import { Container } from 'common/Container.styled';
 
 export const LoginForm = () => {
   const dispatch = useDispatch();
@@ -34,38 +44,46 @@ export const LoginForm = () => {
   };
 
   return (
-    <form onSubmit={handleSubmit} autoComplete="off">
-      <label>
-        Name
-        <input
-          type="text"
-          name="name"
-          placeholder="Enter your name"
-          value={formData.name}
-          onChange={handleChange}
-        />
-      </label>
-      <label>
-        Email
-        <input
-          type="email"
-          name="email"
-          placeholder="Enter your e-mail"
-          value={formData.email}
-          onChange={handleChange}
-        />
-      </label>
-      <label>
-        Password
-        <input
-          type="password"
-          name="password"
-          placeholder="Enter your password"
-          value={formData.password}
-          onChange={handleChange}
-        />
-      </label>
-      <button type="submit">Log In</button>
-    </form>
+    <Container>
+      <CenteredContainer>
+        <Title>
+          <TitleSpan>Log in</TitleSpan>&nbsp;to our system <br /> for your
+          further actions
+        </Title>
+        <AuthForm onSubmit={handleSubmit} autoComplete="off">
+          <FormLabel>
+            Name
+            <FormInput
+              type="text"
+              name="name"
+              placeholder="Enter your name"
+              value={formData.name}
+              onChange={handleChange}
+            />
+          </FormLabel>
+          <FormLabel>
+            Email
+            <FormInput
+              type="email"
+              name="email"
+              placeholder="Enter your e-mail"
+              value={formData.email}
+              onChange={handleChange}
+            />
+          </FormLabel>
+          <FormLabel>
+            Password
+            <FormInput
+              type="password"
+              name="password"
+              placeholder="Enter your password"
+              value={formData.password}
+              onChange={handleChange}
+            />
+          </FormLabel>
+          <FormButton type="submit">Log In</FormButton>
+        </AuthForm>
+      </CenteredContainer>
+    </Container>
   );
 };
