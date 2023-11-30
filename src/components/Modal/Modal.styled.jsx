@@ -124,7 +124,7 @@ export const FeatureText = styled.div`
 export const PriceText = styled.div`
   font-size: 16px;
   letter-spacing: 0.6px;
-  margin-bottom: 25px;
+  margin-bottom: 10px;
 `;
 
 export const WarningWrapper = styled.div`
@@ -132,10 +132,31 @@ export const WarningWrapper = styled.div`
   justify-content: center;
   align-items: center;
   gap: 5px;
+  margin-top: 10px;
   margin-bottom: 10px;
 `;
 
 export const WarningText = styled.p`
   font-size: 13px;
   letter-spacing: 0.6px;
+`;
+
+export const PurchaseButton = styled.button`
+  padding: 15px 20px;
+  border-radius: 8px;
+  background-color: #575c0e;
+  color: #d3d3d3;
+  transition: background-color 250ms ease-out;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  margin: 0 0 0 auto;
+  font-size: 15px;
+
+  &:hover {
+    background-color: #45490b;
+  }
 `;

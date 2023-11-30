@@ -2,6 +2,8 @@ import React from 'react';
 import { useEffect } from 'react';
 import { createPortal } from 'react-dom';
 import modalIcons from '../../assets/modal-icons.svg';
+import { TbShoppingCartDollar } from 'react-icons/tb';
+
 import {
   BackdropWindow,
   ModalContainer,
@@ -18,6 +20,7 @@ import {
   WarningText,
   ButtonWrapper,
   WarningWrapper,
+  PurchaseButton,
 } from './Modal.styled';
 
 const modalRoot = document.querySelector('#modal');
@@ -89,6 +92,10 @@ const Modal = ({ car, onClose }) => {
             <PriceText>
               <Span>Price: </Span> {price}
             </PriceText>
+
+            <PurchaseButton type="submit">
+              Purchase <TbShoppingCartDollar width={20} height={20} />
+            </PurchaseButton>
             <WarningWrapper>
               <svg width={18} height={18} fill="#d3d3d3">
                 <use href={`${modalIcons}#icon-warning`} />
