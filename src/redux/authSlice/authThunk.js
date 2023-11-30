@@ -34,7 +34,7 @@ export const register = createAsyncThunk(
         credentials
       );
       setAuthHeader(response.data.token);
-      Notify.success('Successfully registration. Welcome!');
+      Notify.success('Registration successfully. Welcome!');
       return response.data;
     } catch (error) {
       Notify.failure('Registration failed. Please, try again.');
@@ -53,7 +53,7 @@ export const login = createAsyncThunk(
         credentials
       );
       setAuthHeader(response.data.token);
-      Notify.success('Successfully login. Welcome!');
+      Notify.success('Login successfully. Welcome!');
       return response.data;
     } catch (error) {
       Notify.failure('Login failed. Please, try again.');
@@ -70,7 +70,7 @@ export const logout = createAsyncThunk('/auth/logout', async (_, thunkAPI) => {
     );
     clearAuthHeader();
 
-    Notify.success('See you later!');
+    Notify.success('See you later! Keep in touch with us.');
   } catch (error) {
     Notify.failure('Something with logging out is happened. Try again.');
     return thunkAPI.rejectWithValue(error.message);

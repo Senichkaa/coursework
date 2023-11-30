@@ -18,6 +18,7 @@ import {
   FilterResetButton,
   ButtonsSubmit,
 } from './Filter.styled';
+import { Notify } from 'notiflix';
 
 const Filter = ({
   cars,
@@ -81,6 +82,7 @@ const Filter = ({
     console.log('filteredCars:', filteredCars);
     inFilter(filteredCars);
     dispatch(changeIsFiltered(true));
+    Notify.success('Successfully filtered to your choice');
   };
 
   const [selectedBrand, setSelectedBrand] = useState('');

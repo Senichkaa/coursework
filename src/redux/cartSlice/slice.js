@@ -12,7 +12,10 @@ export const cartSlice = createSlice({
     removeCart(state, action) {
       state.cart = state.cart.filter(car => car !== action.payload);
     },
+    clearCart: state => {
+      state.cart = [];
+    },
   },
 });
 
-export const { addToCart, removeCart } = cartSlice.actions;
+export const { addToCart, removeCart,clearCart } = cartSlice.actions;

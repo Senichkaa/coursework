@@ -144,7 +144,8 @@ export const WarningText = styled.p`
 export const PurchaseButton = styled.button`
   padding: 15px 20px;
   border-radius: 8px;
-  background-color: #575c0e;
+  /* background-color: #575c0e; */
+  background-color: ${props => (props.cartIncluded ? '#761515' : '#575c0e')};
   color: #d3d3d3;
   transition: background-color 250ms ease-out;
   display: flex;
@@ -157,6 +158,7 @@ export const PurchaseButton = styled.button`
   font-size: 15px;
 
   &:hover {
-    background-color: #45490b;
+    /* background-color: #45490b; */
+    background-color: ${props => (props.cartIncluded ? '#961a1a' : '#45490b')};
   }
 `;

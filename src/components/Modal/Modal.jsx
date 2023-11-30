@@ -5,7 +5,8 @@ import { addToCart, removeCart } from 'redux/cartSlice/slice';
 import { createPortal } from 'react-dom';
 import modalIcons from '../../assets/modal-icons.svg';
 import { TbShoppingCartDollar } from 'react-icons/tb';
-import { FcCancel } from 'react-icons/fc';
+import { TbShoppingCartCancel } from 'react-icons/tb';
+
 import { Notify } from 'notiflix';
 
 import {
@@ -117,10 +118,10 @@ const Modal = ({ car, onClose }) => {
               <Span>Price: </Span>$ {price}
             </PriceText>
 
-            <PurchaseButton onClick={handleCart}>
+            <PurchaseButton cartIncluded={cartIncluded} onClick={handleCart}>
               {cartIncluded ? (
                 <>
-                  Remove <FcCancel width={20} height={20} />
+                  Remove <TbShoppingCartCancel width={20} height={20} />
                 </>
               ) : (
                 <>
