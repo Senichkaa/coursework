@@ -1,8 +1,12 @@
 import React from 'react';
 import { useEffect } from 'react';
+import { useDispatch, useSelector } from 'react-redux';
+import { addToCart, removeCart } from 'redux/cartSlice/slice';
 import { createPortal } from 'react-dom';
 import modalIcons from '../../assets/modal-icons.svg';
 import { TbShoppingCartDollar } from 'react-icons/tb';
+import { FcCancel } from 'react-icons/fc';
+import { Notify } from 'notiflix';
 
 import {
   BackdropWindow,
@@ -33,6 +37,7 @@ const toggleOverflow = toggle => {
 
 const Modal = ({ car, onClose }) => {
   const {
+    id,
     img,
     brand,
     model,
@@ -65,6 +70,25 @@ const Modal = ({ car, onClose }) => {
     };
   });
 
+  const cart = useSelector(state => state.cart.cart);
+  const cartIncluded = cart.includes(id);
+  const dispatch = useDispatch();
+  const isLoggedIn = useSelector(state => state.auth.isLoggedIn);
+
+  const handleCart = () => {
+    if (isLoggedIn) {
+      if (cartIncluded) {
+        dispatch(removeCart(id));
+        Notify.failure('Car removed from the cart.');
+      } else {
+        dispatch(addToCart(id));
+        Notify.success('Car added to the cart.');
+      }
+    } else {
+      Notify.warning('You need to be logged in to make a purchase.');
+    }
+  };
+
   return createPortal(
     <BackdropWindow onClick={clickOnOverlay}>
       <ModalContainer>
@@ -90,11 +114,20 @@ const Modal = ({ car, onClose }) => {
               ))}
             </FeaturesWrapper>
             <PriceText>
-              <Span>Price: </Span> {price}
+              <Span>Price: </Span>$ {price}
             </PriceText>
 
-            <PurchaseButton type="submit">
-              Purchase <TbShoppingCartDollar width={20} height={20} />
+            <PurchaseButton onClick={handleCart}>
+              {cartIncluded ? (
+                <>
+                  Remove <FcCancel width={20} height={20} />
+                </>
+              ) : (
+                <>
+                  Purchase
+                  <TbShoppingCartDollar width={20} height={20} />
+                </>
+              )}
             </PurchaseButton>
             <WarningWrapper>
               <svg width={18} height={18} fill="#d3d3d3">

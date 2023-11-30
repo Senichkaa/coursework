@@ -75,3 +75,4 @@ export const FormButton = styled.button`
     outline: 2px solid ${variables.advantageRectBg};
   }
 `;
+

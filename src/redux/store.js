@@ -1,5 +1,6 @@
 import { configureStore } from '@reduxjs/toolkit';
 import { carsSlice } from './carSlice/slice';
+import { cartSlice } from './cartSlice/slice';
 import { authReducer } from './authSlice/slice';
 import {
   persistStore,
@@ -13,6 +14,11 @@ import {
 } from 'redux-persist';
 import storage from 'redux-persist/lib/storage';
 
+const cartPersistConfig = {
+  key: 'cart',
+  storage,
+};
+
 const persistConfig = {
   key: 'cars',
   storage,
@@ -25,11 +31,11 @@ const authPersistConfig = {
   whitelist: ['token'],
 };
 
-
 export const store = configureStore({
   reducer: {
     cars: persistReducer(persistConfig, carsSlice.reducer),
     auth: persistReducer(authPersistConfig, authReducer),
+    cart: persistReducer(cartPersistConfig, cartSlice.reducer),
   },
   middleware: getDefaultMiddleware =>
     getDefaultMiddleware({

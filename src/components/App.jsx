@@ -35,10 +35,7 @@ function App() {
           <Route
             path="api/auth/logout"
             element={
-              <RestrictedRoute
-                redirectTo="/catalog"
-                component={<LogoutPage />}
-              />
+              <RestrictedRoute redirectTo="/" component={<LogoutPage />} />
             }
           />
         </Route>

@@ -24,6 +24,7 @@ function CarItem({ car }) {
   const modalClose = () => {
     setIsModalOpen(false);
   };
+
   return (
     <Item key={id}>
       <ImageWrapper>
@@ -35,8 +36,7 @@ function CarItem({ car }) {
         </CardTitle>
         <CardDescriptionText>{description}</CardDescriptionText>
         <PriceText>
-          <FeatureTitle>Price: </FeatureTitle>
-          {price}
+          <FeatureTitle>Price: </FeatureTitle>$ {price}
         </PriceText>
       </CardTextWrapper>
       <LearnMoreButton type="button" onClick={modalOpen}>
