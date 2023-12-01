@@ -18,6 +18,7 @@ export const EmptyCartText = styled.p`
   font-size: 22px;
   text-align: center;
   letter-spacing: 1.1px;
+  line-height: 1.4;
   margin-bottom: 20px;
 `;
 

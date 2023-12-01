@@ -17,7 +17,7 @@ import {
   AcceptButton,
 } from './Cart.styled';
 import CarImage from '../../assets/audirs.png';
-import AutoImage from '../../assets/rsq8.png'
+import AutoImage from '../../assets/rsq8.png';
 
 function Cart() {
   const dispatch = useDispatch();
@@ -55,7 +55,9 @@ function Cart() {
         {!loading && isPurchaseCompleted && (
           <>
             <EmptyCartText>
-              Your shopping cart is empty. <br /> Please, make your&nbsp;
+              <CartTextSpan>Thank you</CartTextSpan> for your choice! We will
+              contact you as soon as possible. <br /> Meanwhile, make your
+              next&nbsp;
               <CartTextSpan>decisions</CartTextSpan> and visit this page again.
             </EmptyCartText>
             <div>
