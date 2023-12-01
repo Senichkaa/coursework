@@ -1,5 +1,7 @@
 import variables from 'common/Variables';
 import styled from 'styled-components';
+import AudiImage from '../../assets/audi.png';
+import AMImage from '../../assets/aston.png';
 
 export const AuthForm = styled.form`
   display: flex;
@@ -23,6 +25,19 @@ export const Title = styled.h3`
 `;
 export const TitleSpan = styled.span`
   color: ${variables.logoPrimary};
+`;
+
+export const FormSection = styled.section`
+  background-image: url(${AudiImage});
+  background-size: 1180px;
+  background-repeat: no-repeat;
+  background-position: calc(50% - 750px);
+`;
+
+export const FormRegSection = styled(FormSection)`
+  background-image: url(${AMImage});
+  background-size: 900px;
+  background-position: calc(50% + 600px);
 `;
 
 export const CenteredContainer = styled.div`
@@ -75,4 +90,3 @@ export const FormButton = styled.button`
     outline: 2px solid ${variables.advantageRectBg};
   }
 `;
-

@@ -16,6 +16,8 @@ import {
   Summary,
   AcceptButton,
 } from './Cart.styled';
+import CarImage from '../../assets/audirs.png';
+import AutoImage from '../../assets/rsq8.png'
 
 function Cart() {
   const dispatch = useDispatch();
@@ -35,7 +37,7 @@ function Cart() {
   const handlePurchase = () => {
     if (cartCars.length > 0) {
       Notify.success(
-        'Purchase successful! Thank you for shopping with us. Wait for our call.'
+        'Purchase successful! Thank you for shopping with us. Wait for our response via email.'
       );
       setPurchaseCompleted(true);
       dispatch(clearCart());
@@ -51,16 +53,26 @@ function Cart() {
       <Container>
         {loading && <LoadingText>Loading...</LoadingText>}
         {!loading && isPurchaseCompleted && (
-          <EmptyCartText>
-            Your shopping cart is empty. <br /> Please, make your&nbsp;
-            <CartTextSpan>decisions</CartTextSpan> and visit this page again.
-          </EmptyCartText>
+          <>
+            <EmptyCartText>
+              Your shopping cart is empty. <br /> Please, make your&nbsp;
+              <CartTextSpan>decisions</CartTextSpan> and visit this page again.
+            </EmptyCartText>
+            <div>
+              <img src={AutoImage} alt="RSQ8" />
+            </div>
+          </>
         )}
         {!loading && !isPurchaseCompleted && cartCars.length === 0 && (
-          <EmptyCartText>
-            Your shopping cart is empty. <br /> Please, make your&nbsp;
-            <CartTextSpan>decisions</CartTextSpan> and visit this page again.
-          </EmptyCartText>
+          <>
+            <EmptyCartText>
+              Your shopping cart is empty. <br /> Please, make your&nbsp;
+              <CartTextSpan>decisions</CartTextSpan> and visit this page again.
+            </EmptyCartText>
+            <div>
+              <img src={CarImage} alt="RS6" />
+            </div>
+          </>
         )}
         {!loading && !isPurchaseCompleted && cartCars.length > 0 && (
           <>
