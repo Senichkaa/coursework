@@ -1,18 +1,22 @@
 {
   "files": {
     "main.css": "/coursework/static/css/main.7acaea2f.css",
-    "main.js": "/coursework/static/js/main.8758c3f3.js",
+    "main.js": "/coursework/static/js/main.c19fa76b.js",
     "static/js/836.f3a4b2b1.chunk.js": "/coursework/static/js/836.f3a4b2b1.chunk.js",
     "static/js/315.dc9cdd09.chunk.js": "/coursework/static/js/315.dc9cdd09.chunk.js",
     "static/js/173.d878aa72.chunk.js": "/coursework/static/js/173.d878aa72.chunk.js",
-    "static/js/709.36ea50e4.chunk.js": "/coursework/static/js/709.36ea50e4.chunk.js",
+    "static/js/773.797ba6e6.chunk.js": "/coursework/static/js/773.797ba6e6.chunk.js",
     "static/js/962.75efc908.chunk.js": "/coursework/static/js/962.75efc908.chunk.js",
     "static/js/667.af5ee6d7.chunk.js": "/coursework/static/js/667.af5ee6d7.chunk.js",
     "static/js/860.4455574e.chunk.js": "/coursework/static/js/860.4455574e.chunk.js",
+    "static/media/aston.png": "/coursework/static/media/aston.49387600a025dc972747.png",
     "static/media/bmw-akrapovic.png": "/coursework/static/media/bmw-akrapovic.65dd6dc017773dc7734c.png",
     "static/media/Porsche911.png": "/coursework/static/media/Porsche911.91f35be9788a9d05a1b7.png",
     "static/media/bmw-f90.png": "/coursework/static/media/bmw-f90.7e87cce992805d6f8e7d.png",
+    "static/media/rsq8.png": "/coursework/static/media/rsq8.3359a9742188e7032732.png",
+    "static/media/audi.png": "/coursework/static/media/audi.1c078c3e6fb1495a4138.png",
     "static/media/rolls.png": "/coursework/static/media/rolls.aec60ca56f0c29c5a195.png",
+    "static/media/audirs.png": "/coursework/static/media/audirs.2a9f1d8df07688d79837.png",
     "static/media/cars-sprite.svg": "/coursework/static/media/cars-sprite.b7cf4006ef3899019784d74a924fb5fc.svg",
     "static/media/g-wagon.png": "/coursework/static/media/g-wagon.ab48e53f625d1d2fa668.png",
     "static/media/lmu-trnsprt.png": "/coursework/static/media/lmu-trnsprt.d8266231d8e78c343cf0.png",
@@ -22,17 +26,17 @@
     "static/media/modal-icons.svg": "/coursework/static/media/modal-icons.c489487c5bc75dc60a6a77179720aff4.svg",
     "index.html": "/coursework/index.html",
     "main.7acaea2f.css.map": "/coursework/static/css/main.7acaea2f.css.map",
-    "main.8758c3f3.js.map": "/coursework/static/js/main.8758c3f3.js.map",
+    "main.c19fa76b.js.map": "/coursework/static/js/main.c19fa76b.js.map",
     "836.f3a4b2b1.chunk.js.map": "/coursework/static/js/836.f3a4b2b1.chunk.js.map",
     "315.dc9cdd09.chunk.js.map": "/coursework/static/js/315.dc9cdd09.chunk.js.map",
     "173.d878aa72.chunk.js.map": "/coursework/static/js/173.d878aa72.chunk.js.map",
-    "709.36ea50e4.chunk.js.map": "/coursework/static/js/709.36ea50e4.chunk.js.map",
+    "773.797ba6e6.chunk.js.map": "/coursework/static/js/773.797ba6e6.chunk.js.map",
     "962.75efc908.chunk.js.map": "/coursework/static/js/962.75efc908.chunk.js.map",
     "667.af5ee6d7.chunk.js.map": "/coursework/static/js/667.af5ee6d7.chunk.js.map",
     "860.4455574e.chunk.js.map": "/coursework/static/js/860.4455574e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.8758c3f3.js"
+    "static/js/main.c19fa76b.js"
   ]
 }
